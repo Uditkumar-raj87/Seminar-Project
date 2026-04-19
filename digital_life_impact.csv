@@ -1,0 +1,901 @@
+User_ID,Age,Gender,Age Group,Category,Profession_Type,Daily_Screen_Time,Social_Media_Time,Study_Time,Entertainment_Time,Device_Before_Sleep,Sleep_Hours,Sleep_Quality,Stress_Level,Eye_Strain,Physical_Activity,Productivity_Level,Academic_Performance,Concentration_Level
+1,38,Male,Adult,Working,Government,5.6,4.7,2.8,2.8,No,7.9,Good,9,No,2.3,Low,4,9
+2,43,Male,Adult,Working,IT Services,6.2,0.9,4.5,1.7,Yes,7.4,Good,8,Yes,0.8,High,44,8
+3,49,Female,Adult,Non-Working,Retired,6.2,1.1,1.6,4.6,No,4.1,Poor,5,Yes,1.5,Medium,98,8
+4,68,Female,Senior,Working,Government,8.0,1.5,1.3,6.7,Yes,7.7,Good,7,Yes,1.1,High,25,10
+5,21,Female,Adult,Non-Working,Unemployed,3.7,5.0,3.4,0.5,No,7.6,Good,2,No,1.2,Low,52,8
+6,23,Female,Adult,Working,Healthcare,6.8,1.4,1.6,5.2,Yes,6.8,Average,10,Yes,1.8,Medium,81,4
+7,78,Male,Senior,Non-Working,Retired,7.3,3.1,1.1,6.2,No,4.8,Poor,10,Yes,2.4,High,3,7
+8,41,Male,Adult,Working,Freelancer,4.6,3.9,4.3,0.5,Yes,4.4,Poor,4,No,0.7,Medium,6,6
+9,13,Female,Teen,Student,College Student,3.8,1.8,1.8,2.0,No,8.0,Good,8,No,2.2,High,66,6
+10,65,Female,Senior,Non-Working,Homemaker,5.6,0.7,3.2,2.4,Yes,4.4,Poor,3,No,0.5,High,85,6
+11,29,Male,Adult,Non-Working,Homemaker,5.5,1.7,4.1,1.4,Yes,8.4,Good,9,No,2.3,High,63,3
+12,39,Female,Adult,Working,Education,3.5,0.9,2.7,0.8,No,5.6,Average,3,No,1.1,Low,97,9
+13,30,Male,Adult,Working,Healthcare,9.9,4.0,1.0,8.9,No,5.3,Average,3,Yes,2.3,High,13,3
+14,31,Male,Adult,Working,Education,8.6,4.0,2.7,5.9,No,5.0,Average,10,Yes,1.4,High,40,5
+15,27,Female,Adult,Working,Education,8.9,2.2,1.7,7.2,No,7.2,Good,10,Yes,0.4,High,37,9
+16,75,Female,Senior,Working,IT Services,5.7,1.3,3.0,2.7,No,8.8,Good,4,No,1.4,Medium,41,6
+17,34,Male,Adult,Non-Working,Homemaker,3.3,3.8,1.0,2.3,No,4.1,Poor,5,No,2.1,High,69,3
+18,59,Female,Adult,Non-Working,Homemaker,5.0,2.0,1.3,3.7,Yes,7.3,Good,5,No,0.9,High,71,5
+19,46,Female,Adult,Non-Working,Homemaker,9.2,4.0,2.1,7.1,Yes,4.8,Poor,10,Yes,1.9,Low,10,2
+20,67,Male,Senior,Working,Healthcare,3.0,2.8,1.5,1.5,Yes,7.6,Good,2,No,2.4,High,20,9
+21,59,Female,Adult,Working,Business,5.3,1.9,3.4,1.9,Yes,8.3,Good,6,No,0.7,Low,33,3
+22,49,Female,Adult,Working,Healthcare,7.2,4.7,3.6,3.6,No,7.7,Good,8,Yes,1.5,High,58,9
+23,18,Female,Teen,Non-Working,Homemaker,8.4,3.2,2.2,6.2,Yes,7.5,Good,5,Yes,1.6,Medium,44,10
+24,55,Female,Adult,Non-Working,Retired,3.0,4.4,2.2,0.8,Yes,6.4,Average,1,No,1.7,Low,60,4
+25,19,Female,Teen,Student,College Student,8.5,3.6,1.2,7.3,No,4.3,Poor,2,Yes,0.3,Medium,56,7
+26,51,Female,Adult,Non-Working,Unemployed,4.6,3.1,1.5,3.1,No,5.2,Average,5,No,0.3,Medium,72,6
+27,21,Male,Adult,Student,College Student,7.9,1.0,4.1,3.8,No,5.8,Average,6,Yes,2.4,Low,53,5
+28,55,Female,Adult,Working,Government,8.6,4.4,3.8,4.8,Yes,5.8,Average,3,Yes,0.4,High,39,2
+29,37,Female,Adult,Working,Healthcare,7.8,4.5,0.7,7.1,Yes,4.8,Poor,9,Yes,0.3,Medium,78,10
+30,36,Male,Adult,Working,Healthcare,2.3,1.1,3.7,0.5,No,6.7,Average,8,No,2.2,High,93,10
+31,55,Female,Adult,Working,Business,7.6,2.1,1.0,6.6,No,7.6,Good,2,Yes,2.0,Medium,74,8
+32,58,Female,Adult,Working,Corporate,4.6,3.0,3.1,1.5,Yes,7.6,Good,6,No,1.8,Low,71,2
+33,78,Female,Senior,Working,Business,6.1,1.8,2.0,4.1,Yes,4.6,Poor,3,Yes,0.2,High,64,6
+34,51,Female,Adult,Working,Government,6.6,4.7,0.4,6.2,Yes,8.5,Good,4,Yes,0.3,Medium,73,3
+35,44,Female,Adult,Working,IT Services,9.5,1.2,4.0,5.5,No,5.5,Average,10,Yes,0.4,Low,69,4
+36,32,Female,Adult,Non-Working,Retired,6.4,4.0,2.7,3.7,Yes,6.4,Average,1,Yes,0.4,High,40,4
+37,77,Male,Senior,Non-Working,Homemaker,5.8,3.4,3.0,2.8,No,4.5,Poor,4,No,0.8,Medium,15,6
+38,65,Male,Senior,Non-Working,Retired,6.1,0.8,0.3,5.8,Yes,6.1,Average,4,Yes,0.1,Low,42,7
+39,70,Female,Senior,Non-Working,Homemaker,8.0,4.0,3.5,4.5,No,7.5,Good,1,Yes,0.7,Medium,92,9
+40,79,Female,Senior,Working,Government,8.8,1.5,2.7,6.1,No,4.5,Poor,5,Yes,1.8,Low,90,4
+41,37,Male,Adult,Working,Healthcare,8.6,2.0,3.5,5.1,No,6.7,Average,1,Yes,0.8,Medium,48,9
+42,68,Female,Senior,Non-Working,Unemployed,3.4,3.7,1.0,2.4,No,4.5,Poor,9,No,0.7,High,87,5
+43,27,Female,Adult,Working,Healthcare,5.5,3.2,0.4,5.1,No,4.4,Poor,2,No,1.0,Low,87,7
+44,78,Female,Senior,Non-Working,Unemployed,4.1,3.0,4.3,0.5,Yes,4.4,Poor,6,No,1.2,Low,72,6
+45,71,Male,Senior,Non-Working,Unemployed,3.1,1.2,1.0,2.1,Yes,8.5,Good,5,No,0.6,Low,46,2
+46,39,Male,Adult,Non-Working,Homemaker,7.2,0.5,2.8,4.4,Yes,6.2,Average,2,Yes,2.0,High,32,8
+47,67,Male,Senior,Working,Government,7.2,2.9,3.7,3.5,Yes,5.1,Average,3,Yes,0.9,High,9,7
+48,19,Female,Teen,Student,School Student,3.4,2.4,0.2,3.2,No,9.0,Good,10,No,0.6,High,64,8
+49,25,Male,Adult,Working,Corporate,4.9,4.4,2.1,2.8,Yes,7.9,Good,8,No,1.0,Low,89,10
+50,46,Female,Adult,Working,Healthcare,4.9,2.4,0.7,4.2,Yes,6.2,Average,1,No,0.3,Medium,21,4
+51,46,Male,Adult,Working,Corporate,9.0,2.4,3.2,5.8,Yes,6.0,Average,8,Yes,0.5,Medium,98,2
+52,79,Male,Senior,Non-Working,Unemployed,7.7,1.9,4.7,3.0,No,5.5,Average,1,Yes,0.9,Low,6,4
+53,19,Male,Teen,Non-Working,Retired,6.0,3.2,1.6,4.4,Yes,8.5,Good,8,No,0.9,Medium,9,7
+54,57,Male,Adult,Non-Working,Homemaker,8.6,2.4,2.9,5.7,No,7.8,Good,4,Yes,0.8,Low,66,4
+55,74,Female,Senior,Working,Healthcare,7.5,2.9,0.8,6.7,No,5.9,Average,9,Yes,1.5,High,68,5
+56,59,Female,Adult,Working,Corporate,6.6,3.8,4.3,2.3,Yes,7.0,Good,3,Yes,0.5,Low,8,5
+57,49,Male,Adult,Working,Corporate,3.0,4.5,4.8,0.5,No,7.3,Good,2,No,1.8,Medium,14,7
+58,66,Female,Senior,Non-Working,Retired,4.4,3.3,3.9,0.5,Yes,7.6,Good,10,No,0.8,High,76,10
+59,26,Male,Adult,Working,Healthcare,9.5,1.3,4.5,5.0,No,6.7,Average,3,Yes,1.1,High,66,5
+60,68,Female,Senior,Non-Working,Unemployed,7.0,2.2,4.2,2.8,No,7.7,Good,6,Yes,1.5,Medium,48,8
+61,25,Male,Adult,Non-Working,Unemployed,7.0,2.2,3.7,3.3,No,8.8,Good,10,Yes,0.2,Medium,61,4
+62,41,Female,Adult,Working,Business,6.7,2.3,4.9,1.8,Yes,5.4,Average,3,Yes,0.6,Low,17,5
+63,55,Female,Adult,Non-Working,Unemployed,2.2,3.0,4.6,0.5,No,7.3,Good,3,No,0.4,Medium,35,7
+64,15,Female,Teen,Non-Working,Retired,2.2,0.7,0.9,1.3,Yes,8.7,Good,2,No,0.6,Medium,94,3
+65,77,Male,Senior,Non-Working,Retired,6.4,4.0,3.8,2.6,No,7.9,Good,2,Yes,2.4,High,79,8
+66,32,Male,Adult,Working,Government,5.9,3.4,2.9,3.0,No,8.3,Good,4,No,0.4,Low,41,8
+67,44,Female,Adult,Working,Government,5.2,4.3,2.2,3.0,No,8.3,Good,2,No,1.7,High,31,6
+68,79,Female,Senior,Working,Business,9.7,4.7,1.5,8.2,Yes,7.4,Good,5,Yes,1.9,High,22,9
+69,69,Male,Senior,Non-Working,Unemployed,3.5,0.9,0.1,3.4,No,7.5,Good,2,No,1.6,Medium,75,7
+70,77,Male,Senior,Non-Working,Unemployed,6.5,1.6,3.1,3.4,Yes,5.6,Average,6,Yes,0.1,High,86,6
+71,58,Male,Adult,Working,Government,10.0,1.3,4.9,5.1,Yes,7.1,Good,9,Yes,1.9,Medium,91,6
+72,48,Male,Adult,Working,Education,5.6,2.8,3.1,2.5,No,4.2,Poor,3,No,1.1,High,40,4
+73,78,Male,Senior,Working,Freelancer,6.1,3.0,1.1,5.0,No,8.1,Good,9,Yes,0.2,Medium,0,7
+74,73,Female,Senior,Working,Healthcare,4.8,2.3,2.0,2.8,Yes,4.9,Poor,8,No,1.7,Medium,75,9
+75,54,Male,Adult,Non-Working,Unemployed,9.8,4.7,1.4,8.4,Yes,4.9,Poor,7,Yes,2.5,Medium,15,7
+76,43,Female,Adult,Working,Healthcare,2.0,1.6,0.2,1.8,Yes,8.5,Good,3,No,1.3,High,65,6
+77,32,Female,Adult,Working,IT Services,2.3,0.7,3.2,0.5,No,7.2,Good,10,No,0.2,Medium,20,5
+78,64,Male,Senior,Non-Working,Retired,8.9,2.6,2.8,6.1,Yes,5.9,Average,1,Yes,1.7,Medium,74,6
+79,60,Male,Senior,Working,IT Services,7.9,4.1,0.1,7.8,Yes,8.1,Good,7,Yes,0.7,Low,35,3
+80,47,Male,Adult,Working,Government,9.3,1.8,2.8,6.5,Yes,5.3,Average,2,Yes,0.7,Medium,92,6
+81,78,Male,Senior,Non-Working,Homemaker,2.4,1.9,4.9,0.5,Yes,8.8,Good,3,No,0.9,Low,38,4
+82,67,Male,Senior,Non-Working,Unemployed,6.6,4.5,1.3,5.3,Yes,4.9,Poor,5,Yes,0.4,Medium,25,3
+83,50,Female,Adult,Working,IT Services,2.3,2.7,2.3,0.5,No,7.6,Good,3,No,1.5,Medium,43,7
+84,71,Male,Senior,Non-Working,Homemaker,4.3,3.5,2.2,2.1,Yes,8.4,Good,2,No,1.4,Medium,9,4
+85,76,Female,Senior,Working,Corporate,3.3,4.0,3.4,0.5,No,6.7,Average,1,No,0.6,Low,19,5
+86,27,Female,Adult,Working,Healthcare,4.9,2.7,4.8,0.5,No,8.7,Good,4,No,0.8,Medium,12,7
+87,71,Male,Senior,Working,IT Services,8.7,0.9,2.6,6.1,Yes,8.7,Good,5,Yes,0.3,Medium,87,7
+88,70,Male,Senior,Working,Business,8.9,4.1,1.8,7.1,Yes,4.4,Poor,6,Yes,0.4,Low,0,3
+89,57,Female,Adult,Non-Working,Retired,2.3,0.5,3.6,0.5,No,8.6,Good,2,No,0.3,Medium,23,2
+90,74,Female,Senior,Non-Working,Unemployed,4.7,1.8,0.8,3.9,Yes,8.3,Good,2,No,1.4,Low,16,2
+91,19,Female,Teen,Non-Working,Homemaker,9.8,1.9,3.2,6.6,Yes,8.9,Good,7,Yes,0.7,Medium,2,3
+92,70,Male,Senior,Non-Working,Unemployed,9.0,4.2,1.6,7.4,No,4.6,Poor,4,Yes,1.3,High,44,8
+93,27,Female,Adult,Non-Working,Retired,6.9,2.5,1.6,5.3,No,8.4,Good,1,Yes,0.7,High,26,10
+94,15,Male,Teen,Student,School Student,5.3,2.7,0.6,4.7,No,5.8,Average,2,No,2.4,Low,93,9
+95,77,Male,Senior,Non-Working,Homemaker,9.0,2.5,2.9,6.1,No,8.5,Good,9,Yes,1.2,Low,12,10
+96,33,Male,Adult,Working,Freelancer,4.1,4.4,1.5,2.6,Yes,4.8,Poor,4,No,1.8,Medium,3,8
+97,73,Female,Senior,Non-Working,Homemaker,6.4,3.7,2.0,4.4,Yes,4.4,Poor,8,Yes,0.3,High,55,4
+98,76,Female,Senior,Working,Freelancer,7.0,4.7,0.0,7.0,Yes,4.6,Poor,9,Yes,0.5,High,56,9
+99,21,Male,Adult,Student,College Student,5.2,1.3,0.3,4.9,Yes,5.6,Average,7,No,1.3,Medium,71,6
+100,44,Female,Adult,Working,Freelancer,4.6,2.2,3.1,1.5,Yes,7.3,Good,10,No,0.7,High,71,6
+101,24,Male,Adult,Working,Education,9.0,0.8,0.3,8.7,Yes,4.9,Poor,5,Yes,1.3,Medium,36,3
+102,42,Male,Adult,Working,IT Services,2.5,4.4,4.2,0.5,No,6.3,Average,8,No,0.8,Medium,4,3
+103,17,Female,Teen,Student,College Student,4.8,4.5,0.2,4.6,Yes,4.1,Poor,6,No,1.9,High,84,2
+104,19,Male,Teen,Student,College Student,4.2,3.2,1.9,2.3,No,5.2,Average,4,No,2.0,Low,73,2
+105,24,Male,Adult,Non-Working,Homemaker,9.2,4.8,0.4,8.8,No,5.2,Average,5,Yes,0.7,Medium,78,10
+106,60,Female,Senior,Working,Corporate,7.4,0.8,3.1,4.3,No,7.7,Good,7,Yes,0.3,High,50,10
+107,53,Female,Adult,Working,Government,7.7,3.5,0.8,6.9,No,5.6,Average,2,Yes,0.5,Low,49,4
+108,48,Male,Adult,Working,Corporate,5.2,2.8,2.3,2.9,Yes,8.1,Good,1,No,0.2,Medium,81,2
+109,79,Female,Senior,Working,Healthcare,3.7,4.9,2.1,1.6,No,6.2,Average,4,No,1.5,High,33,3
+110,39,Male,Adult,Working,Corporate,6.9,3.3,2.3,4.6,No,5.5,Average,8,Yes,1.6,Low,48,7
+111,35,Male,Adult,Working,IT Services,9.0,4.5,1.8,7.2,Yes,8.5,Good,9,Yes,1.3,High,77,8
+112,21,Female,Adult,Student,College Student,8.8,4.8,4.3,4.5,Yes,5.7,Average,1,Yes,2.2,High,61,2
+113,36,Male,Adult,Working,Healthcare,2.7,3.4,2.0,0.7,No,6.2,Average,7,No,2.1,High,49,7
+114,44,Female,Adult,Non-Working,Homemaker,7.3,1.6,1.5,5.8,Yes,4.8,Poor,2,Yes,1.9,High,84,3
+115,22,Male,Adult,Student,School Student,2.7,3.4,4.8,0.5,Yes,7.6,Good,1,No,0.4,High,66,6
+116,57,Male,Adult,Non-Working,Unemployed,10.0,2.4,1.9,8.1,Yes,6.3,Average,10,Yes,2.3,Medium,68,2
+117,26,Male,Adult,Working,Healthcare,9.8,0.5,1.0,8.8,No,7.4,Good,6,Yes,1.1,High,62,6
+118,33,Male,Adult,Working,Business,7.2,2.1,4.6,2.6,No,6.5,Average,8,Yes,1.8,Low,19,3
+119,60,Female,Senior,Working,IT Services,9.9,1.6,1.4,8.5,No,7.6,Good,2,Yes,0.1,High,79,2
+120,58,Female,Adult,Working,Healthcare,9.3,4.1,4.0,5.3,Yes,7.8,Good,8,Yes,0.4,Medium,0,4
+121,33,Female,Adult,Working,Healthcare,5.1,2.4,0.7,4.4,No,4.2,Poor,3,No,1.1,Medium,67,10
+122,76,Male,Senior,Working,Corporate,7.4,2.6,2.7,4.7,No,6.7,Average,7,Yes,1.5,Low,18,8
+123,14,Male,Teen,Non-Working,Retired,4.5,2.7,3.7,0.8,No,5.4,Average,3,No,0.3,Medium,98,7
+124,61,Male,Senior,Working,Education,8.4,4.1,0.1,8.3,No,5.7,Average,4,Yes,1.1,Low,52,6
+125,56,Female,Adult,Working,Healthcare,7.0,4.0,0.8,6.2,Yes,4.4,Poor,1,Yes,1.7,High,32,7
+126,28,Female,Adult,Non-Working,Homemaker,8.4,4.8,4.1,4.3,Yes,8.7,Good,4,Yes,0.6,Low,5,3
+127,67,Female,Senior,Non-Working,Retired,6.9,1.3,0.6,6.3,No,4.1,Poor,8,Yes,0.7,Medium,24,8
+128,43,Male,Adult,Working,Corporate,9.1,3.2,0.7,8.4,No,5.8,Average,5,Yes,0.2,High,7,5
+129,38,Male,Adult,Non-Working,Homemaker,9.7,1.2,2.6,7.1,No,6.4,Average,7,Yes,1.2,Low,7,8
+130,80,Female,Senior,Non-Working,Retired,2.4,4.7,1.6,0.8,No,6.3,Average,10,No,1.7,Low,63,8
+131,59,Female,Adult,Working,Business,2.8,0.6,4.9,0.5,No,7.0,Good,7,No,0.9,Low,33,4
+132,29,Male,Adult,Non-Working,Retired,8.2,3.8,1.2,7.0,No,5.4,Average,7,Yes,1.4,High,50,6
+133,21,Female,Adult,Student,College Student,6.6,4.2,1.9,4.7,Yes,6.4,Average,5,Yes,2.2,High,81,10
+134,59,Female,Adult,Working,IT Services,2.1,2.4,4.3,0.5,Yes,8.7,Good,7,No,1.4,Medium,8,8
+135,23,Male,Adult,Working,Business,8.4,4.5,4.2,4.2,No,5.7,Average,7,Yes,1.6,Low,27,2
+136,38,Male,Adult,Non-Working,Retired,2.3,4.0,2.1,0.5,Yes,6.6,Average,1,No,2.5,Low,95,10
+137,46,Male,Adult,Non-Working,Retired,10.0,0.6,4.6,5.4,No,7.3,Good,2,Yes,2.3,Low,6,3
+138,22,Male,Adult,Student,School Student,5.0,1.1,3.2,1.8,Yes,6.2,Average,5,No,2.2,High,79,2
+139,78,Female,Senior,Working,Healthcare,3.6,1.9,0.6,3.0,Yes,7.3,Good,6,No,2.5,High,19,4
+140,60,Female,Senior,Working,Healthcare,7.7,1.7,2.3,5.4,Yes,7.1,Good,5,Yes,0.9,Low,46,6
+141,17,Female,Teen,Non-Working,Unemployed,2.5,2.8,2.5,0.5,No,6.1,Average,1,No,0.2,Medium,100,2
+142,57,Male,Adult,Non-Working,Homemaker,9.2,1.3,4.1,5.1,Yes,8.7,Good,4,Yes,1.3,Medium,18,5
+143,26,Female,Adult,Working,IT Services,4.1,1.6,0.9,3.2,Yes,6.9,Average,7,No,1.2,High,17,4
+144,72,Female,Senior,Non-Working,Unemployed,6.8,1.0,3.0,3.8,Yes,6.7,Average,2,Yes,0.6,High,34,8
+145,47,Female,Adult,Working,Healthcare,7.2,2.8,0.1,7.1,No,6.3,Average,1,Yes,1.5,Low,40,6
+146,74,Male,Senior,Non-Working,Homemaker,5.0,2.9,0.8,4.2,Yes,6.2,Average,4,No,1.9,High,95,9
+147,20,Male,Adult,Student,School Student,3.6,3.2,1.7,1.9,No,6.9,Average,4,No,0.4,Low,72,5
+148,16,Male,Teen,Student,School Student,3.8,4.6,3.7,0.5,No,6.9,Average,1,No,2.1,Medium,63,7
+149,65,Male,Senior,Working,Corporate,5.7,3.2,3.1,2.6,No,8.0,Good,4,No,0.5,Low,5,8
+150,30,Male,Adult,Working,Healthcare,9.5,1.6,3.0,6.5,No,7.5,Good,5,Yes,2.0,Low,56,6
+151,17,Male,Teen,Student,School Student,2.9,1.9,2.9,0.5,Yes,5.9,Average,8,No,1.0,Low,89,6
+152,79,Male,Senior,Non-Working,Unemployed,6.7,4.6,1.2,5.5,Yes,5.0,Average,3,Yes,1.9,High,58,7
+153,42,Female,Adult,Working,Corporate,6.3,0.6,1.0,5.3,No,7.5,Good,7,Yes,1.6,Medium,62,4
+154,45,Female,Adult,Working,Freelancer,9.9,4.3,3.1,6.8,No,5.3,Average,10,Yes,0.1,Medium,35,9
+155,53,Male,Adult,Working,IT Services,7.4,1.2,1.2,6.2,Yes,7.1,Good,4,Yes,1.7,High,20,8
+156,29,Female,Adult,Working,IT Services,7.9,3.6,2.2,5.7,Yes,4.9,Poor,2,Yes,0.4,High,2,4
+157,79,Male,Senior,Non-Working,Homemaker,6.8,3.2,3.9,2.9,No,4.2,Poor,8,Yes,1.2,Medium,89,8
+158,53,Male,Adult,Working,Corporate,4.9,2.6,0.2,4.7,Yes,7.6,Good,3,No,0.6,Medium,32,2
+159,61,Male,Senior,Working,Government,3.9,3.7,3.1,0.8,Yes,5.8,Average,9,No,1.6,Medium,96,5
+160,39,Male,Adult,Working,IT Services,3.2,4.6,4.1,0.5,No,5.0,Average,3,No,1.1,Medium,41,10
+161,45,Male,Adult,Non-Working,Homemaker,6.2,4.9,2.0,4.2,Yes,8.6,Good,9,Yes,0.8,Low,16,6
+162,64,Female,Senior,Working,Education,6.3,3.2,4.5,1.8,Yes,5.9,Average,2,Yes,1.4,Low,2,7
+163,15,Female,Teen,Non-Working,Unemployed,3.4,2.2,4.5,0.5,No,8.2,Good,5,No,2.3,High,42,6
+164,55,Male,Adult,Non-Working,Retired,8.2,0.8,2.6,5.6,Yes,9.0,Good,8,Yes,1.8,High,26,7
+165,34,Female,Adult,Working,Education,5.2,4.3,0.1,5.1,Yes,4.7,Poor,10,No,0.1,High,38,2
+166,67,Female,Senior,Working,Corporate,3.5,2.3,0.5,3.0,Yes,5.1,Average,5,No,1.8,High,80,5
+167,67,Male,Senior,Working,Education,3.9,4.8,0.8,3.1,Yes,7.3,Good,7,No,0.8,High,99,10
+168,31,Female,Adult,Non-Working,Unemployed,3.8,4.4,2.5,1.3,No,4.1,Poor,10,No,2.2,Medium,19,5
+169,71,Male,Senior,Working,Business,7.1,2.6,4.4,2.7,No,4.4,Poor,8,Yes,1.8,High,30,6
+170,56,Female,Adult,Working,IT Services,5.6,2.8,3.6,2.0,No,5.9,Average,3,No,2.0,Low,64,3
+171,67,Female,Senior,Working,Corporate,8.5,4.1,1.7,6.8,Yes,8.8,Good,7,Yes,1.2,Medium,95,3
+172,16,Female,Teen,Student,School Student,7.4,3.2,1.2,6.2,Yes,5.1,Average,9,Yes,0.8,Medium,69,3
+173,71,Male,Senior,Working,Government,9.2,1.7,3.8,5.4,No,5.2,Average,2,Yes,0.4,Low,66,3
+174,53,Female,Adult,Working,Government,3.0,4.3,2.5,0.5,Yes,6.6,Average,10,No,1.4,Low,27,5
+175,45,Female,Adult,Working,IT Services,4.5,1.8,0.3,4.2,Yes,7.3,Good,3,No,0.9,Medium,97,10
+176,17,Male,Teen,Non-Working,Homemaker,5.9,3.6,0.5,5.4,No,5.9,Average,4,No,1.7,High,64,5
+177,66,Female,Senior,Non-Working,Homemaker,4.8,4.3,3.8,1.0,Yes,6.5,Average,8,No,0.8,Low,14,5
+178,70,Female,Senior,Non-Working,Homemaker,6.9,2.3,4.9,2.0,Yes,5.0,Average,10,Yes,1.5,Medium,37,2
+179,24,Female,Adult,Non-Working,Homemaker,9.5,3.7,0.2,9.3,No,6.4,Average,1,Yes,0.5,Low,38,10
+180,25,Male,Adult,Non-Working,Unemployed,7.1,3.4,1.3,5.8,Yes,6.9,Average,8,Yes,0.7,High,29,9
+181,37,Female,Adult,Working,Government,5.9,0.6,2.7,3.2,No,7.4,Good,8,No,0.4,Low,97,10
+182,44,Male,Adult,Non-Working,Homemaker,9.4,0.6,1.5,7.9,No,7.7,Good,5,Yes,1.0,High,2,2
+183,76,Female,Senior,Non-Working,Unemployed,9.5,4.8,3.0,6.5,No,5.2,Average,7,Yes,2.2,High,6,9
+184,25,Male,Adult,Non-Working,Homemaker,6.2,4.5,2.4,3.8,Yes,4.4,Poor,3,Yes,0.8,Medium,74,7
+185,78,Male,Senior,Non-Working,Retired,2.1,3.3,2.0,0.5,Yes,6.5,Average,8,No,2.1,High,75,2
+186,19,Female,Teen,Student,School Student,6.2,4.9,1.1,5.1,Yes,8.0,Good,3,Yes,2.3,Low,60,8
+187,36,Female,Adult,Working,Government,8.1,4.2,2.8,5.3,No,8.2,Good,4,Yes,1.8,Low,57,9
+188,22,Male,Adult,Non-Working,Retired,3.9,1.0,3.4,0.5,No,5.9,Average,5,No,0.2,High,18,10
+189,57,Male,Adult,Working,Healthcare,3.4,1.5,4.5,0.5,Yes,4.7,Poor,4,No,1.4,High,20,9
+190,79,Female,Senior,Working,Corporate,9.2,1.6,3.1,6.1,Yes,6.7,Average,6,Yes,1.8,Medium,39,8
+191,14,Male,Teen,Non-Working,Retired,3.0,1.1,4.3,0.5,Yes,4.2,Poor,3,No,1.7,Low,29,2
+192,19,Male,Teen,Non-Working,Homemaker,6.4,3.1,1.7,4.7,Yes,7.0,Good,8,Yes,0.4,High,26,2
+193,21,Male,Adult,Student,School Student,7.0,4.6,3.2,3.8,Yes,5.2,Average,6,Yes,2.1,High,74,9
+194,74,Male,Senior,Non-Working,Retired,3.9,3.7,3.0,0.9,Yes,6.6,Average,10,No,2.1,High,4,7
+195,42,Male,Adult,Working,Education,2.3,4.5,0.1,2.2,Yes,7.3,Good,4,No,1.2,Low,55,7
+196,58,Female,Adult,Working,Education,3.9,4.0,2.6,1.3,Yes,8.5,Good,2,No,2.0,Low,56,6
+197,21,Female,Adult,Student,College Student,2.9,2.5,5.0,0.5,No,5.0,Average,1,No,2.1,Low,60,7
+198,39,Male,Adult,Working,Healthcare,2.1,4.4,3.9,0.5,No,6.8,Average,8,No,1.1,Medium,59,4
+199,62,Female,Senior,Non-Working,Homemaker,3.8,2.0,1.8,2.0,No,6.6,Average,3,No,2.0,High,95,6
+200,59,Female,Adult,Working,Freelancer,4.3,3.9,1.6,2.7,Yes,6.4,Average,1,No,2.2,Low,85,8
+201,64,Female,Senior,Working,Education,4.6,3.2,1.2,3.4,No,6.4,Average,6,No,0.3,Low,60,9
+202,18,Male,Teen,Non-Working,Retired,7.4,4.3,2.6,4.8,Yes,7.2,Good,1,Yes,0.3,High,21,6
+203,42,Female,Adult,Non-Working,Homemaker,9.0,3.0,1.6,7.4,No,7.3,Good,4,Yes,2.4,Low,23,4
+204,15,Male,Teen,Student,College Student,7.6,3.8,2.4,5.2,No,5.2,Average,10,Yes,1.1,Low,76,4
+205,53,Male,Adult,Non-Working,Retired,3.8,3.2,3.8,0.5,Yes,8.4,Good,10,No,1.1,Medium,20,6
+206,73,Male,Senior,Non-Working,Unemployed,4.6,3.8,4.2,0.5,No,7.3,Good,2,No,0.3,High,19,10
+207,61,Male,Senior,Working,Business,8.3,1.1,4.1,4.2,Yes,5.8,Average,7,Yes,1.0,Medium,1,8
+208,52,Male,Adult,Working,Business,2.1,2.0,3.5,0.5,No,4.6,Poor,8,No,0.4,High,84,3
+209,34,Male,Adult,Non-Working,Retired,3.6,2.2,0.7,2.9,No,6.6,Average,6,No,1.6,Low,47,9
+210,40,Female,Adult,Non-Working,Unemployed,5.9,2.0,0.1,5.8,No,4.9,Poor,1,No,0.2,High,34,2
+211,38,Female,Adult,Working,Freelancer,6.9,1.8,2.1,4.8,No,5.8,Average,8,Yes,1.9,Medium,35,5
+212,74,Female,Senior,Non-Working,Homemaker,9.4,1.9,0.1,9.3,No,6.5,Average,3,Yes,0.6,Medium,1,3
+213,11,Male,Child,Student,School Student,6.2,1.4,2.9,3.3,No,5.5,Average,5,Yes,1.4,High,61,7
+214,71,Female,Senior,Working,Corporate,2.2,2.2,3.1,0.5,No,7.0,Good,8,No,0.3,Low,22,10
+215,22,Female,Adult,Student,School Student,5.9,1.6,0.3,5.6,No,4.7,Poor,3,No,2.1,Medium,71,4
+216,18,Male,Teen,Non-Working,Homemaker,3.4,2.3,3.4,0.5,No,6.7,Average,9,No,2.4,Medium,41,3
+217,63,Male,Senior,Working,Education,5.9,3.4,2.9,3.0,Yes,6.3,Average,8,No,0.1,Medium,45,9
+218,11,Male,Child,Student,College Student,8.7,1.5,0.1,8.6,Yes,4.9,Poor,5,Yes,2.4,Medium,92,4
+219,73,Male,Senior,Non-Working,Retired,2.8,3.3,1.3,1.5,No,8.8,Good,3,No,1.4,Low,28,8
+220,56,Female,Adult,Non-Working,Retired,8.7,3.4,3.0,5.7,Yes,4.4,Poor,7,Yes,1.8,High,87,2
+221,58,Male,Adult,Working,Corporate,6.2,0.7,0.8,5.4,No,7.7,Good,5,Yes,0.2,Low,28,3
+222,32,Male,Adult,Working,Business,3.3,4.5,1.9,1.4,Yes,5.7,Average,1,No,2.1,Low,28,3
+223,26,Male,Adult,Working,Government,9.3,2.3,0.1,9.2,No,6.4,Average,4,Yes,2.3,Medium,5,9
+224,36,Male,Adult,Working,Government,5.5,2.9,2.3,3.2,Yes,4.5,Poor,3,No,1.6,Low,47,4
+225,71,Female,Senior,Non-Working,Homemaker,6.9,2.3,3.1,3.8,No,8.2,Good,9,Yes,1.5,High,31,6
+226,49,Female,Adult,Working,Healthcare,4.5,2.2,3.1,1.4,No,5.8,Average,4,No,1.5,Medium,33,6
+227,71,Male,Senior,Non-Working,Unemployed,2.7,4.6,3.8,0.5,Yes,6.8,Average,5,No,0.2,Low,77,4
+228,61,Male,Senior,Working,Corporate,2.4,4.2,1.7,0.7,Yes,5.9,Average,1,No,0.1,Medium,49,5
+229,58,Female,Adult,Non-Working,Homemaker,5.2,4.4,3.3,1.9,No,4.8,Poor,6,No,2.3,High,44,6
+230,31,Female,Adult,Non-Working,Homemaker,8.9,0.9,3.7,5.2,No,4.9,Poor,8,Yes,0.2,Medium,83,10
+231,16,Female,Teen,Non-Working,Homemaker,7.3,2.0,2.0,5.3,Yes,5.7,Average,3,Yes,1.0,Low,95,10
+232,53,Female,Adult,Non-Working,Retired,3.9,1.3,4.8,0.5,Yes,4.1,Poor,2,No,2.3,Low,90,2
+233,66,Male,Senior,Non-Working,Homemaker,7.8,3.7,4.7,3.1,No,8.2,Good,3,Yes,1.3,Medium,57,9
+234,72,Female,Senior,Working,Freelancer,2.6,1.2,4.2,0.5,No,8.1,Good,1,No,1.8,Medium,96,9
+235,15,Female,Teen,Non-Working,Unemployed,4.0,4.1,2.2,1.8,No,5.6,Average,5,No,1.6,High,34,3
+236,26,Male,Adult,Working,Government,3.6,4.5,1.4,2.2,Yes,7.5,Good,4,No,1.3,High,44,8
+237,33,Female,Adult,Non-Working,Unemployed,9.5,3.5,2.5,7.0,Yes,4.8,Poor,2,Yes,2.2,Low,64,10
+238,28,Male,Adult,Non-Working,Homemaker,7.7,2.7,4.1,3.6,No,6.9,Average,4,Yes,1.3,Low,83,7
+239,56,Male,Adult,Working,Corporate,3.5,4.2,3.6,0.5,Yes,4.4,Poor,1,No,0.3,High,87,9
+240,34,Male,Adult,Working,Healthcare,8.1,1.5,2.4,5.7,No,8.8,Good,8,Yes,1.4,Low,50,9
+241,79,Male,Senior,Non-Working,Retired,6.5,1.9,3.8,2.7,Yes,6.3,Average,5,Yes,2.4,Medium,38,9
+242,26,Male,Adult,Working,Corporate,3.4,1.3,1.3,2.1,No,6.8,Average,1,No,0.8,High,65,9
+243,29,Female,Adult,Working,Government,7.5,2.7,4.5,3.0,Yes,5.7,Average,8,Yes,1.1,High,94,5
+244,35,Female,Adult,Working,Freelancer,7.4,4.4,3.0,4.4,No,7.9,Good,9,Yes,2.5,High,32,10
+245,53,Female,Adult,Working,Freelancer,4.0,1.6,0.5,3.5,No,8.8,Good,4,No,2.3,High,79,8
+246,72,Male,Senior,Non-Working,Retired,8.3,1.2,3.0,5.3,No,8.4,Good,4,Yes,2.5,Medium,86,6
+247,62,Male,Senior,Working,Corporate,5.1,2.7,3.4,1.7,No,5.6,Average,10,No,1.1,High,22,8
+248,44,Male,Adult,Working,Business,4.8,1.0,0.9,3.9,Yes,6.6,Average,1,No,0.5,Medium,14,7
+249,14,Male,Teen,Student,School Student,8.8,2.1,2.1,6.7,No,7.8,Good,6,Yes,1.7,High,71,2
+250,47,Female,Adult,Non-Working,Homemaker,3.7,0.5,0.7,3.0,Yes,5.9,Average,8,No,0.8,High,74,9
+251,35,Female,Adult,Working,Education,5.0,0.8,4.0,1.0,No,9.0,Good,2,No,1.3,High,96,9
+252,71,Female,Senior,Working,Corporate,4.7,1.3,3.0,1.7,No,5.0,Average,10,No,2.5,High,11,7
+253,65,Female,Senior,Working,Healthcare,2.4,1.2,2.1,0.5,No,5.6,Average,6,No,2.0,Low,13,10
+254,73,Male,Senior,Working,Corporate,7.2,4.3,4.5,2.7,No,6.4,Average,1,Yes,0.6,Low,86,4
+255,53,Male,Adult,Working,Business,3.9,3.8,5.0,0.5,Yes,4.2,Poor,4,No,0.7,Medium,19,10
+256,48,Female,Adult,Working,Government,6.8,2.3,2.4,4.4,No,5.7,Average,4,Yes,0.6,Low,45,2
+257,62,Male,Senior,Non-Working,Unemployed,7.7,4.8,2.3,5.4,No,6.1,Average,8,Yes,1.8,Low,95,4
+258,27,Female,Adult,Non-Working,Homemaker,3.7,1.3,3.3,0.5,No,8.4,Good,5,No,2.2,High,27,7
+259,73,Male,Senior,Working,Government,3.0,3.0,2.0,1.0,No,8.6,Good,9,No,0.4,Low,65,6
+260,35,Male,Adult,Working,Healthcare,5.0,4.3,0.3,4.7,No,4.5,Poor,9,No,2.1,High,20,10
+261,11,Male,Child,Student,College Student,9.7,3.6,4.3,5.4,No,4.9,Poor,9,Yes,1.7,Low,61,7
+262,43,Female,Adult,Non-Working,Unemployed,3.3,0.5,1.2,2.1,Yes,7.3,Good,5,No,2.2,High,6,10
+263,79,Male,Senior,Non-Working,Retired,9.6,1.4,1.0,8.6,No,7.0,Good,7,Yes,0.3,Medium,12,5
+264,80,Male,Senior,Working,Business,9.7,4.1,4.1,5.6,Yes,8.5,Good,3,Yes,2.2,High,19,7
+265,65,Female,Senior,Non-Working,Homemaker,6.2,3.3,2.8,3.4,No,6.8,Average,5,Yes,0.8,Medium,22,7
+266,77,Male,Senior,Non-Working,Unemployed,5.0,2.5,2.2,2.8,Yes,6.4,Average,3,No,1.5,Low,47,2
+267,30,Male,Adult,Non-Working,Homemaker,8.0,3.6,0.2,7.8,No,4.9,Poor,5,Yes,1.8,High,97,5
+268,30,Male,Adult,Working,Education,8.8,3.0,3.7,5.1,No,6.6,Average,3,Yes,1.6,Low,77,8
+269,58,Male,Adult,Non-Working,Homemaker,7.2,3.5,0.5,6.7,No,9.0,Good,7,Yes,0.6,Low,3,7
+270,63,Male,Senior,Non-Working,Unemployed,7.7,4.9,4.3,3.4,Yes,4.2,Poor,2,Yes,1.9,Low,37,4
+271,17,Female,Teen,Non-Working,Homemaker,6.5,2.7,2.3,4.2,Yes,6.6,Average,2,Yes,2.4,High,89,10
+272,31,Male,Adult,Working,Freelancer,2.6,3.5,4.8,0.5,Yes,6.1,Average,9,No,1.5,Medium,65,5
+273,41,Female,Adult,Working,Business,6.0,3.5,0.1,5.9,Yes,4.7,Poor,4,No,2.0,Low,88,2
+274,42,Female,Adult,Non-Working,Homemaker,6.2,1.1,4.0,2.2,No,5.3,Average,8,Yes,1.0,Medium,84,8
+275,51,Male,Adult,Working,Education,9.5,4.8,1.0,8.5,No,6.5,Average,7,Yes,1.3,Low,65,2
+276,20,Female,Adult,Student,College Student,5.1,4.7,2.0,3.1,Yes,7.2,Good,10,No,1.4,High,70,2
+277,11,Male,Child,Non-Working,Retired,6.8,2.5,3.9,2.9,No,6.2,Average,2,Yes,0.3,High,81,7
+278,39,Female,Adult,Working,Corporate,2.9,3.0,4.6,0.5,Yes,6.2,Average,3,No,0.9,Low,0,3
+279,79,Female,Senior,Working,IT Services,7.2,2.7,4.6,2.6,Yes,8.1,Good,5,Yes,0.3,High,86,7
+280,43,Female,Adult,Working,Education,8.4,3.3,4.0,4.4,Yes,4.3,Poor,2,Yes,2.1,High,37,6
+281,78,Male,Senior,Working,Freelancer,7.1,1.7,4.7,2.4,Yes,7.5,Good,3,Yes,1.5,High,6,3
+282,58,Male,Adult,Working,IT Services,7.6,2.2,3.2,4.4,No,6.3,Average,1,Yes,0.3,High,15,5
+283,23,Female,Adult,Working,Healthcare,5.2,4.5,3.6,1.6,Yes,5.0,Average,9,No,1.9,Medium,24,5
+284,39,Female,Adult,Non-Working,Retired,3.0,3.4,4.2,0.5,Yes,7.2,Good,10,No,0.9,High,64,3
+285,56,Female,Adult,Working,Corporate,6.2,2.4,1.6,4.6,No,5.2,Average,1,Yes,2.0,Medium,58,3
+286,77,Male,Senior,Non-Working,Retired,8.5,3.6,1.5,7.0,Yes,7.5,Good,10,Yes,1.4,High,70,8
+287,23,Female,Adult,Non-Working,Retired,3.6,4.2,2.3,1.3,Yes,5.1,Average,9,No,1.1,High,35,8
+288,39,Male,Adult,Non-Working,Retired,7.5,2.6,2.5,5.0,No,4.2,Poor,6,Yes,1.7,High,15,5
+289,32,Male,Adult,Non-Working,Unemployed,3.6,1.7,5.0,0.5,Yes,6.8,Average,1,No,1.9,High,23,5
+290,43,Female,Adult,Working,Healthcare,5.6,3.2,1.6,4.0,No,7.1,Good,9,No,0.7,Medium,63,5
+291,65,Female,Senior,Non-Working,Homemaker,8.1,4.7,4.6,3.5,Yes,8.3,Good,6,Yes,1.7,Medium,63,9
+292,38,Male,Adult,Non-Working,Retired,4.7,3.6,3.6,1.1,No,4.8,Poor,4,No,0.7,Medium,21,3
+293,55,Female,Adult,Non-Working,Retired,8.1,2.2,0.5,7.6,No,5.6,Average,3,Yes,1.4,Low,56,7
+294,15,Male,Teen,Student,School Student,7.6,2.8,2.9,4.7,No,4.9,Poor,8,Yes,1.9,Low,60,10
+295,35,Male,Adult,Non-Working,Homemaker,4.1,1.5,5.0,0.5,No,6.5,Average,8,No,0.4,Low,51,4
+296,51,Male,Adult,Working,Healthcare,9.3,1.6,3.3,6.0,Yes,4.4,Poor,9,Yes,1.9,Low,55,8
+297,56,Female,Adult,Non-Working,Retired,9.4,4.2,2.6,6.8,No,4.2,Poor,8,Yes,1.5,High,95,7
+298,63,Female,Senior,Non-Working,Retired,9.1,4.0,1.0,8.1,Yes,7.4,Good,10,Yes,0.5,Low,9,9
+299,73,Female,Senior,Working,IT Services,4.0,3.9,3.1,0.9,Yes,7.6,Good,1,No,1.0,Medium,15,10
+300,33,Female,Adult,Non-Working,Retired,6.5,4.9,4.2,2.3,No,7.9,Good,3,Yes,2.0,High,86,7
+301,62,Male,Senior,Working,Government,4.8,1.0,1.8,3.0,No,8.2,Good,6,No,2.1,High,39,6
+302,65,Female,Senior,Working,Education,9.0,3.7,2.1,6.9,Yes,6.2,Average,9,Yes,0.2,High,4,10
+303,51,Male,Adult,Non-Working,Unemployed,6.5,3.8,3.1,3.4,Yes,6.8,Average,5,Yes,0.9,High,49,8
+304,20,Female,Adult,Student,School Student,6.9,3.1,4.0,2.9,No,4.1,Poor,8,Yes,1.1,Low,75,6
+305,79,Male,Senior,Working,Freelancer,8.2,1.8,2.5,5.7,Yes,4.9,Poor,9,Yes,0.6,Medium,20,8
+306,46,Female,Adult,Non-Working,Retired,9.5,4.5,3.6,5.9,No,8.9,Good,6,Yes,2.2,Medium,80,7
+307,32,Male,Adult,Working,IT Services,7.1,3.2,2.5,4.6,Yes,7.5,Good,5,Yes,2.0,High,20,5
+308,67,Male,Senior,Working,Government,6.7,1.9,0.7,6.0,No,7.2,Good,4,Yes,2.0,Medium,48,5
+309,30,Female,Adult,Working,Freelancer,9.6,3.9,3.9,5.7,Yes,5.8,Average,1,Yes,1.4,High,50,3
+310,46,Female,Adult,Working,Healthcare,8.2,1.8,0.9,7.3,Yes,6.3,Average,2,Yes,0.3,High,17,7
+311,22,Male,Adult,Student,School Student,5.9,3.7,3.4,2.5,Yes,8.4,Good,5,No,0.5,Medium,60,2
+312,66,Female,Senior,Working,Business,10.0,5.0,4.2,5.8,Yes,4.4,Poor,1,Yes,0.5,Low,98,8
+313,17,Female,Teen,Student,School Student,5.8,2.0,2.0,3.8,No,6.4,Average,1,No,2.3,Medium,95,5
+314,69,Female,Senior,Working,Healthcare,7.3,3.7,4.2,3.1,Yes,4.5,Poor,6,Yes,2.4,High,66,3
+315,68,Female,Senior,Non-Working,Homemaker,4.6,1.8,3.1,1.5,Yes,6.2,Average,1,No,0.4,High,29,9
+316,33,Female,Adult,Working,Freelancer,6.2,3.9,0.1,6.1,Yes,7.8,Good,1,Yes,0.3,High,79,9
+317,34,Male,Adult,Non-Working,Homemaker,3.9,2.4,0.3,3.6,Yes,6.1,Average,1,No,2.3,Low,57,7
+318,31,Female,Adult,Non-Working,Unemployed,5.3,2.2,1.4,3.9,Yes,7.6,Good,6,No,0.8,Medium,47,8
+319,78,Male,Senior,Non-Working,Homemaker,8.8,4.4,2.1,6.7,No,5.2,Average,4,Yes,1.4,High,8,4
+320,58,Female,Adult,Working,Healthcare,9.8,0.8,3.6,6.2,Yes,6.4,Average,8,Yes,0.9,High,56,2
+321,11,Male,Child,Student,School Student,4.9,3.1,4.3,0.6,Yes,4.4,Poor,3,No,0.9,High,80,8
+322,10,Male,Child,Student,School Student,8.0,2.1,2.3,5.7,No,4.1,Poor,5,Yes,0.6,High,64,4
+323,50,Male,Adult,Non-Working,Homemaker,6.6,2.7,2.5,4.1,No,4.8,Poor,10,Yes,2.2,Low,9,4
+324,37,Male,Adult,Working,Corporate,4.1,4.3,2.8,1.3,Yes,6.4,Average,9,No,0.5,High,33,7
+325,59,Male,Adult,Working,IT Services,3.6,2.1,4.2,0.5,No,8.4,Good,7,No,1.9,Low,63,7
+326,76,Male,Senior,Non-Working,Retired,5.6,2.4,0.6,5.0,Yes,5.4,Average,10,No,0.1,Low,4,9
+327,68,Male,Senior,Working,IT Services,5.5,1.8,0.1,5.4,Yes,7.7,Good,9,No,1.0,High,69,10
+328,42,Female,Adult,Non-Working,Retired,9.0,2.0,4.7,4.3,No,6.5,Average,4,Yes,1.3,Medium,27,2
+329,35,Male,Adult,Working,Government,3.7,4.4,1.5,2.2,No,8.8,Good,3,No,2.5,Medium,3,3
+330,64,Male,Senior,Working,Government,6.7,3.0,0.4,6.3,Yes,5.7,Average,2,Yes,2.3,Medium,78,6
+331,29,Male,Adult,Working,IT Services,8.8,2.0,3.3,5.5,Yes,6.9,Average,10,Yes,1.0,Low,98,3
+332,36,Female,Adult,Working,Freelancer,9.6,1.4,4.0,5.6,Yes,5.7,Average,3,Yes,1.0,High,62,9
+333,54,Male,Adult,Working,Business,8.8,4.7,0.9,7.9,No,5.7,Average,6,Yes,2.1,High,64,7
+334,58,Male,Adult,Working,IT Services,5.2,4.1,0.5,4.7,No,8.4,Good,3,No,0.5,Low,19,2
+335,31,Male,Adult,Working,IT Services,7.5,0.7,4.6,2.9,Yes,6.1,Average,4,Yes,1.9,High,13,4
+336,64,Female,Senior,Non-Working,Unemployed,2.2,4.2,2.0,0.5,Yes,5.5,Average,3,No,0.8,High,24,7
+337,11,Female,Child,Student,School Student,7.6,2.1,4.5,3.1,No,4.1,Poor,8,Yes,0.3,High,70,9
+338,26,Male,Adult,Working,Government,8.8,3.3,1.2,7.6,Yes,4.5,Poor,4,Yes,2.4,Low,89,9
+339,70,Male,Senior,Non-Working,Retired,2.8,2.6,4.8,0.5,Yes,8.3,Good,8,No,1.5,Low,81,5
+340,56,Male,Adult,Working,Corporate,8.5,2.6,4.3,4.2,Yes,5.4,Average,10,Yes,0.4,High,37,3
+341,44,Female,Adult,Non-Working,Homemaker,6.1,2.6,2.3,3.8,Yes,4.1,Poor,7,Yes,1.3,High,23,8
+342,18,Female,Teen,Non-Working,Unemployed,5.2,4.0,2.0,3.2,Yes,4.3,Poor,10,No,1.1,High,42,8
+343,64,Male,Senior,Working,Education,9.0,2.2,2.7,6.3,No,4.3,Poor,3,Yes,0.2,Low,78,2
+344,53,Male,Adult,Working,Government,3.2,3.5,3.5,0.5,Yes,4.1,Poor,7,No,0.3,High,9,2
+345,64,Female,Senior,Working,IT Services,2.2,4.4,3.0,0.5,Yes,8.3,Good,4,No,0.4,Medium,79,5
+346,27,Female,Adult,Working,Corporate,7.0,3.6,4.7,2.3,No,7.7,Good,2,Yes,1.2,High,41,9
+347,58,Male,Adult,Non-Working,Unemployed,8.2,0.9,2.6,5.6,Yes,6.9,Average,7,Yes,1.2,High,46,5
+348,74,Female,Senior,Non-Working,Retired,5.2,3.3,4.6,0.6,No,6.0,Average,10,No,0.2,Medium,49,3
+349,51,Female,Adult,Working,Education,9.5,4.4,3.8,5.7,Yes,6.6,Average,10,Yes,1.0,Low,66,2
+350,26,Female,Adult,Working,Business,2.3,4.8,1.8,0.5,Yes,5.4,Average,7,No,1.4,Low,33,3
+351,37,Male,Adult,Working,IT Services,2.4,2.9,5.0,0.5,No,5.6,Average,5,No,1.8,Medium,79,2
+352,52,Male,Adult,Working,Government,5.3,1.0,3.0,2.3,Yes,6.5,Average,7,No,1.9,Medium,54,6
+353,59,Female,Adult,Working,Corporate,7.9,3.3,4.3,3.6,No,6.1,Average,8,Yes,1.6,Low,29,3
+354,42,Male,Adult,Non-Working,Homemaker,5.2,2.3,2.0,3.2,Yes,4.8,Poor,1,No,1.3,Low,36,7
+355,65,Female,Senior,Non-Working,Homemaker,9.4,1.7,4.0,5.4,No,7.4,Good,10,Yes,1.6,Medium,55,6
+356,73,Female,Senior,Non-Working,Homemaker,8.2,3.2,1.3,6.9,No,5.5,Average,8,Yes,2.0,Low,54,3
+357,15,Female,Teen,Non-Working,Retired,3.8,2.3,1.6,2.2,No,5.9,Average,10,No,0.2,High,34,10
+358,56,Female,Adult,Working,Business,4.9,4.0,2.3,2.6,Yes,8.0,Good,1,No,0.6,Low,76,4
+359,37,Female,Adult,Working,Healthcare,4.9,2.2,1.4,3.5,No,8.3,Good,4,No,2.0,Medium,33,6
+360,22,Female,Adult,Student,School Student,5.8,3.0,2.3,3.5,No,8.8,Good,5,No,0.5,High,59,7
+361,17,Female,Teen,Non-Working,Retired,8.0,2.9,2.1,5.9,No,4.9,Poor,4,Yes,1.6,Medium,26,8
+362,48,Female,Adult,Non-Working,Homemaker,5.6,4.0,3.5,2.1,Yes,8.1,Good,9,No,2.0,Low,15,7
+363,14,Male,Teen,Non-Working,Retired,9.9,1.2,3.5,6.4,No,5.0,Average,4,Yes,0.9,High,84,8
+364,32,Male,Adult,Non-Working,Unemployed,8.3,0.9,3.1,5.2,No,6.8,Average,3,Yes,0.4,Medium,30,8
+365,54,Female,Adult,Non-Working,Homemaker,7.0,1.1,2.4,4.6,No,7.3,Good,9,Yes,0.4,High,9,4
+366,34,Male,Adult,Working,Corporate,2.9,4.1,0.5,2.4,Yes,4.7,Poor,6,No,1.2,Medium,72,6
+367,48,Female,Adult,Working,Freelancer,2.7,5.0,4.1,0.5,No,8.2,Good,7,No,1.0,Low,41,2
+368,52,Male,Adult,Non-Working,Homemaker,7.3,2.3,2.6,4.7,No,6.6,Average,7,Yes,1.9,Low,27,9
+369,23,Female,Adult,Working,Freelancer,6.2,3.4,2.6,3.6,Yes,6.1,Average,6,Yes,1.7,High,84,3
+370,62,Male,Senior,Working,Education,7.1,3.0,4.6,2.5,No,4.8,Poor,7,Yes,1.6,Low,78,5
+371,15,Male,Teen,Student,College Student,3.6,2.5,1.4,2.2,No,4.8,Poor,6,No,1.0,Medium,56,9
+372,44,Female,Adult,Working,Freelancer,2.4,0.7,0.3,2.1,Yes,6.0,Average,2,No,0.9,High,8,2
+373,30,Male,Adult,Non-Working,Retired,8.5,3.6,2.9,5.6,No,8.6,Good,6,Yes,0.3,Medium,2,3
+374,33,Male,Adult,Non-Working,Unemployed,2.6,1.6,2.5,0.5,No,4.8,Poor,2,No,1.9,Low,36,2
+375,48,Male,Adult,Working,Government,6.4,3.5,2.0,4.4,Yes,8.9,Good,10,Yes,0.9,Low,11,2
+376,11,Male,Child,Student,College Student,7.7,2.2,1.1,6.6,Yes,7.8,Good,10,Yes,0.5,Low,58,10
+377,76,Female,Senior,Working,Freelancer,6.8,4.9,1.3,5.5,No,5.0,Average,9,Yes,0.4,High,100,5
+378,52,Male,Adult,Non-Working,Unemployed,4.8,2.2,3.2,1.6,Yes,7.9,Good,9,No,1.3,Low,79,9
+379,73,Female,Senior,Non-Working,Unemployed,2.5,1.0,4.6,0.5,Yes,5.9,Average,2,No,0.2,Medium,70,9
+380,10,Female,Child,Student,College Student,9.0,3.7,4.6,4.4,Yes,8.8,Good,10,Yes,2.2,High,66,10
+381,65,Male,Senior,Working,Corporate,3.1,3.7,3.4,0.5,No,4.9,Poor,3,No,2.1,Medium,55,2
+382,44,Female,Adult,Non-Working,Homemaker,8.0,4.1,3.1,4.9,Yes,5.9,Average,4,Yes,1.2,Low,6,9
+383,75,Male,Senior,Working,IT Services,5.7,3.6,2.8,2.9,Yes,4.8,Poor,1,No,0.4,Medium,96,3
+384,61,Female,Senior,Working,Corporate,7.9,1.2,0.5,7.4,Yes,4.5,Poor,5,Yes,0.9,High,39,3
+385,71,Male,Senior,Working,Education,6.9,2.9,2.1,4.8,Yes,4.5,Poor,8,Yes,0.1,Low,27,2
+386,33,Male,Adult,Working,Freelancer,8.0,3.3,2.5,5.5,No,5.9,Average,7,Yes,0.8,High,13,6
+387,72,Female,Senior,Working,Freelancer,6.1,4.0,1.1,5.0,Yes,6.6,Average,2,Yes,0.5,Medium,42,2
+388,61,Male,Senior,Non-Working,Homemaker,7.1,3.5,2.5,4.6,No,5.4,Average,3,Yes,2.2,Low,24,10
+389,14,Male,Teen,Non-Working,Unemployed,9.5,2.5,0.9,8.6,Yes,6.5,Average,9,Yes,0.4,Low,49,8
+390,19,Male,Teen,Student,School Student,4.7,2.3,1.9,2.8,No,7.5,Good,7,No,0.8,Low,78,2
+391,45,Female,Adult,Working,Freelancer,6.0,3.6,3.8,2.2,No,8.8,Good,3,No,1.2,Low,87,6
+392,13,Female,Teen,Student,College Student,4.9,3.2,2.3,2.6,No,8.5,Good,4,No,0.5,Medium,70,4
+393,34,Male,Adult,Working,Government,5.3,4.7,2.4,2.9,Yes,7.9,Good,2,No,1.7,Low,96,8
+394,31,Female,Adult,Working,Healthcare,5.7,2.6,3.8,1.9,Yes,6.8,Average,3,No,1.0,High,93,5
+395,46,Male,Adult,Working,Business,8.2,1.0,2.7,5.5,Yes,6.6,Average,4,Yes,2.2,Low,0,4
+396,18,Male,Teen,Student,School Student,3.8,3.3,2.7,1.1,No,5.6,Average,3,No,0.3,Low,56,3
+397,72,Female,Senior,Non-Working,Homemaker,6.1,1.9,2.5,3.6,No,4.2,Poor,10,Yes,0.4,High,55,5
+398,16,Female,Teen,Student,College Student,3.5,2.7,3.1,0.5,Yes,8.5,Good,7,No,1.2,High,66,3
+399,73,Male,Senior,Working,IT Services,3.8,3.2,3.3,0.5,No,6.3,Average,4,No,1.2,Medium,46,10
+400,12,Male,Child,Student,College Student,8.1,3.6,3.9,4.2,Yes,7.5,Good,2,Yes,0.8,High,73,9
+401,22,Male,Adult,Student,School Student,6.1,3.0,2.1,4.0,Yes,8.0,Good,4,Yes,0.5,Medium,54,9
+402,33,Male,Adult,Working,Business,3.7,3.9,4.7,0.5,No,4.6,Poor,4,No,0.8,Low,29,2
+403,65,Male,Senior,Non-Working,Retired,9.6,1.4,4.6,5.0,Yes,5.6,Average,9,Yes,0.3,Medium,70,9
+404,11,Female,Child,Student,College Student,7.4,1.0,4.4,3.0,No,5.7,Average,5,Yes,2.1,Low,78,7
+405,15,Female,Teen,Non-Working,Retired,5.9,0.6,1.5,4.4,No,7.9,Good,9,No,0.6,High,48,9
+406,34,Female,Adult,Working,Freelancer,7.0,1.8,4.6,2.4,Yes,8.7,Good,10,Yes,0.2,Medium,6,9
+407,29,Female,Adult,Working,Corporate,2.2,2.4,1.3,0.9,No,4.5,Poor,6,No,2.4,High,15,3
+408,11,Male,Child,Non-Working,Unemployed,9.5,4.1,2.7,6.8,Yes,4.8,Poor,4,Yes,0.3,Low,68,3
+409,58,Female,Adult,Non-Working,Homemaker,7.2,3.5,0.2,7.0,Yes,4.2,Poor,10,Yes,2.2,Low,28,5
+410,67,Female,Senior,Non-Working,Unemployed,3.1,2.1,2.0,1.1,No,4.2,Poor,9,No,0.9,High,89,3
+411,37,Male,Adult,Non-Working,Unemployed,6.3,0.7,1.1,5.2,Yes,8.3,Good,1,Yes,0.3,High,43,10
+412,13,Male,Teen,Non-Working,Homemaker,6.3,1.8,1.7,4.6,No,7.3,Good,6,Yes,1.4,High,22,2
+413,19,Female,Teen,Student,School Student,3.2,2.3,1.3,1.9,Yes,8.2,Good,9,No,1.8,Low,84,5
+414,10,Female,Child,Student,College Student,7.3,4.9,4.7,2.6,No,4.6,Poor,8,Yes,0.6,Low,68,9
+415,48,Female,Adult,Working,Healthcare,6.2,4.2,2.7,3.5,Yes,5.2,Average,5,Yes,1.7,High,4,8
+416,73,Female,Senior,Working,Healthcare,6.2,0.9,1.4,4.8,Yes,5.6,Average,7,Yes,2.4,Low,17,2
+417,78,Female,Senior,Working,Education,9.6,2.4,3.6,6.0,Yes,4.1,Poor,8,Yes,1.7,High,14,4
+418,65,Female,Senior,Non-Working,Retired,6.9,3.4,4.9,2.0,Yes,4.2,Poor,2,Yes,1.4,High,35,10
+419,16,Female,Teen,Student,School Student,4.7,0.6,0.9,3.8,No,7.0,Good,4,No,0.9,Medium,50,9
+420,40,Male,Adult,Working,Government,2.4,1.4,4.2,0.5,No,8.9,Good,10,No,2.2,Low,85,9
+421,28,Male,Adult,Non-Working,Homemaker,8.5,3.2,2.6,5.9,Yes,7.3,Good,5,Yes,1.5,Medium,71,5
+422,54,Female,Adult,Non-Working,Unemployed,7.3,1.1,4.9,2.4,Yes,4.0,Poor,4,Yes,1.9,High,49,10
+423,55,Male,Adult,Non-Working,Retired,9.8,4.7,0.2,9.6,No,8.4,Good,8,Yes,0.7,High,68,3
+424,48,Female,Adult,Working,Education,6.0,3.4,1.3,4.7,Yes,5.2,Average,10,No,1.3,High,21,7
+425,12,Male,Child,Non-Working,Unemployed,10.0,3.4,2.1,7.9,No,7.7,Good,7,Yes,1.8,Medium,26,10
+426,77,Female,Senior,Non-Working,Homemaker,6.4,2.4,4.5,1.9,Yes,7.8,Good,4,Yes,1.3,Medium,86,4
+427,65,Male,Senior,Non-Working,Homemaker,4.7,3.4,4.6,0.5,Yes,5.6,Average,7,No,0.3,High,51,2
+428,22,Male,Adult,Student,College Student,6.6,1.9,2.5,4.1,No,6.7,Average,6,Yes,2.2,Low,69,4
+429,21,Female,Adult,Non-Working,Homemaker,3.7,3.9,1.4,2.3,No,8.9,Good,5,No,1.4,Medium,26,10
+430,38,Female,Adult,Working,IT Services,6.0,1.2,3.0,3.0,No,5.5,Average,5,No,1.2,Low,46,10
+431,57,Female,Adult,Working,IT Services,2.9,5.0,4.2,0.5,Yes,6.0,Average,8,No,1.2,High,54,5
+432,13,Female,Teen,Non-Working,Retired,9.5,2.6,4.7,4.8,Yes,4.8,Poor,9,Yes,1.2,Medium,59,6
+433,78,Female,Senior,Non-Working,Retired,10.0,0.9,0.2,9.8,No,5.6,Average,3,Yes,1.5,Low,89,5
+434,10,Male,Child,Student,School Student,9.9,2.3,3.2,6.7,Yes,5.2,Average,10,Yes,2.4,Low,78,2
+435,59,Female,Adult,Non-Working,Unemployed,4.8,2.3,3.0,1.8,No,8.2,Good,2,No,0.1,High,1,6
+436,19,Male,Teen,Student,School Student,4.6,0.9,3.2,1.4,No,5.2,Average,2,No,0.4,Medium,79,9
+437,25,Female,Adult,Working,IT Services,6.2,3.0,3.1,3.1,No,6.5,Average,7,Yes,1.3,High,12,4
+438,17,Female,Teen,Non-Working,Unemployed,8.3,0.8,3.5,4.8,Yes,7.9,Good,8,Yes,1.3,High,70,8
+439,80,Female,Senior,Working,Business,5.9,1.4,0.1,5.8,No,5.5,Average,10,No,2.1,Low,44,4
+440,55,Male,Adult,Non-Working,Homemaker,6.3,2.1,3.4,2.9,No,5.4,Average,9,Yes,1.3,Medium,56,5
+441,17,Female,Teen,Non-Working,Retired,9.7,1.0,2.6,7.1,Yes,8.2,Good,9,Yes,1.9,Low,72,9
+442,71,Female,Senior,Non-Working,Retired,5.6,1.9,1.0,4.6,No,7.9,Good,5,No,1.8,Medium,62,10
+443,50,Male,Adult,Non-Working,Unemployed,7.8,3.8,0.3,7.5,Yes,5.0,Average,7,Yes,0.4,High,25,3
+444,67,Male,Senior,Non-Working,Homemaker,3.5,2.0,4.6,0.5,No,4.4,Poor,10,No,2.4,Low,64,5
+445,79,Female,Senior,Non-Working,Unemployed,8.6,4.4,1.2,7.4,No,6.1,Average,9,Yes,0.3,Low,38,8
+446,16,Female,Teen,Non-Working,Homemaker,2.4,1.9,1.7,0.7,No,4.5,Poor,8,No,1.0,Low,100,2
+447,71,Female,Senior,Working,Business,9.4,1.9,4.3,5.1,Yes,8.9,Good,7,Yes,0.8,Low,23,9
+448,41,Male,Adult,Non-Working,Homemaker,6.1,0.6,4.9,1.2,Yes,4.4,Poor,6,Yes,1.8,Medium,9,5
+449,56,Female,Adult,Non-Working,Homemaker,9.9,0.7,1.9,8.0,No,5.6,Average,3,Yes,1.6,Medium,76,2
+450,48,Female,Adult,Working,Healthcare,8.5,1.0,3.4,5.1,Yes,8.9,Good,7,Yes,0.7,High,27,10
+451,77,Female,Senior,Non-Working,Unemployed,6.1,3.7,3.5,2.6,No,8.8,Good,3,Yes,1.6,Low,17,6
+452,51,Female,Adult,Working,Government,9.5,3.9,1.3,8.2,No,4.6,Poor,5,Yes,0.6,High,30,6
+453,50,Male,Adult,Working,IT Services,7.8,1.9,2.6,5.2,No,5.3,Average,2,Yes,0.9,High,60,6
+454,25,Male,Adult,Working,Corporate,6.9,3.7,0.1,6.8,No,5.2,Average,2,Yes,0.2,Medium,88,10
+455,46,Female,Adult,Working,Freelancer,3.8,3.0,0.6,3.2,Yes,8.4,Good,5,No,0.8,High,46,4
+456,31,Male,Adult,Non-Working,Unemployed,3.7,3.9,2.7,1.0,No,4.9,Poor,10,No,1.5,Medium,99,6
+457,26,Female,Adult,Working,Corporate,6.8,0.6,0.8,6.0,Yes,8.6,Good,8,Yes,1.5,Medium,64,8
+458,57,Male,Adult,Non-Working,Retired,4.0,1.3,3.2,0.8,Yes,4.1,Poor,3,No,1.0,Low,73,2
+459,32,Female,Adult,Working,Freelancer,8.0,2.9,4.0,4.0,Yes,4.7,Poor,7,Yes,2.5,Low,11,9
+460,57,Male,Adult,Working,Government,8.8,2.6,2.4,6.4,Yes,5.1,Average,1,Yes,1.7,Low,95,7
+461,55,Female,Adult,Working,Freelancer,4.2,4.0,0.5,3.7,Yes,8.5,Good,1,No,1.9,High,82,9
+462,11,Female,Child,Student,College Student,3.1,4.0,2.0,1.1,Yes,4.3,Poor,10,No,1.9,Medium,80,4
+463,30,Female,Adult,Working,Business,4.6,3.3,1.9,2.7,No,6.2,Average,4,No,2.2,Medium,79,9
+464,70,Female,Senior,Working,Freelancer,9.8,4.9,1.9,7.9,No,8.1,Good,7,Yes,2.3,Medium,0,6
+465,10,Male,Child,Non-Working,Unemployed,6.7,2.6,3.2,3.5,No,5.9,Average,9,Yes,0.9,Medium,76,4
+466,71,Male,Senior,Working,Education,8.1,0.7,4.2,3.9,No,5.2,Average,6,Yes,2.1,Low,87,6
+467,13,Male,Teen,Student,School Student,9.2,1.1,3.5,5.7,Yes,5.4,Average,9,Yes,1.7,High,72,5
+468,69,Male,Senior,Working,Government,4.0,3.1,1.9,2.1,Yes,5.9,Average,6,No,1.5,High,60,10
+469,35,Female,Adult,Non-Working,Unemployed,8.2,1.1,1.2,7.0,Yes,6.7,Average,4,Yes,0.2,Medium,10,10
+470,23,Male,Adult,Non-Working,Homemaker,6.7,2.6,3.8,2.9,No,4.1,Poor,3,Yes,0.1,Low,42,10
+471,49,Female,Adult,Working,Education,6.4,0.9,4.4,2.0,No,5.0,Average,3,Yes,2.1,Medium,8,3
+472,14,Male,Teen,Student,School Student,8.8,2.7,0.8,8.0,Yes,4.3,Poor,10,Yes,1.4,Medium,76,6
+473,39,Female,Adult,Working,IT Services,3.3,4.6,2.3,1.0,No,4.0,Poor,8,No,1.5,High,1,7
+474,19,Male,Teen,Student,School Student,9.4,4.6,2.8,6.6,No,5.6,Average,3,Yes,1.6,High,79,3
+475,72,Male,Senior,Working,Business,3.4,2.8,4.3,0.5,Yes,7.1,Good,8,No,1.6,Low,86,5
+476,52,Female,Adult,Working,Business,5.4,4.5,3.6,1.8,No,7.3,Good,10,No,1.1,High,66,10
+477,38,Male,Adult,Working,Healthcare,5.4,5.0,3.5,1.9,Yes,4.8,Poor,7,No,2.2,High,16,9
+478,13,Male,Teen,Student,School Student,8.7,2.2,4.7,4.0,Yes,5.9,Average,4,Yes,0.9,High,69,10
+479,36,Female,Adult,Non-Working,Homemaker,3.9,4.8,4.0,0.5,No,5.4,Average,9,No,0.1,Medium,66,3
+480,33,Male,Adult,Non-Working,Unemployed,4.2,1.7,0.2,4.0,No,7.5,Good,8,No,1.9,Medium,49,8
+481,37,Male,Adult,Non-Working,Retired,3.8,1.4,4.5,0.5,Yes,6.1,Average,3,No,0.1,Medium,26,9
+482,73,Male,Senior,Working,Freelancer,6.4,3.2,1.4,5.0,Yes,7.4,Good,10,Yes,1.8,Low,51,6
+483,72,Female,Senior,Working,Freelancer,9.9,4.0,1.3,8.6,Yes,4.1,Poor,5,Yes,2.0,High,93,10
+484,48,Male,Adult,Working,Education,8.7,0.6,0.3,8.4,No,7.8,Good,9,Yes,1.6,Medium,81,3
+485,63,Male,Senior,Working,Business,3.7,4.6,4.5,0.5,No,7.3,Good,6,No,1.2,Low,54,5
+486,75,Male,Senior,Non-Working,Retired,5.8,4.7,0.6,5.2,No,4.9,Poor,5,No,2.5,High,74,3
+487,69,Male,Senior,Non-Working,Retired,5.6,2.0,4.2,1.4,No,8.6,Good,1,No,1.9,Medium,27,4
+488,62,Female,Senior,Non-Working,Retired,4.0,1.6,1.8,2.2,Yes,7.3,Good,6,No,2.4,Medium,84,3
+489,74,Female,Senior,Working,IT Services,6.1,2.8,2.9,3.2,Yes,6.7,Average,6,Yes,0.9,High,53,9
+490,45,Female,Adult,Working,Corporate,6.8,2.7,0.6,6.2,No,7.8,Good,3,Yes,0.7,High,88,10
+491,63,Female,Senior,Non-Working,Homemaker,5.7,0.7,2.3,3.4,No,4.5,Poor,5,No,1.7,Low,43,7
+492,63,Male,Senior,Working,Healthcare,9.2,1.0,3.0,6.2,No,7.8,Good,6,Yes,2.4,Low,68,2
+493,62,Male,Senior,Non-Working,Unemployed,5.6,4.2,4.3,1.3,Yes,7.7,Good,4,No,1.3,High,76,10
+494,10,Female,Child,Student,School Student,6.9,2.7,3.1,3.8,Yes,5.7,Average,5,Yes,1.6,High,56,4
+495,77,Male,Senior,Working,Healthcare,7.1,3.9,1.4,5.7,No,4.6,Poor,4,Yes,0.9,Medium,73,2
+496,78,Male,Senior,Non-Working,Homemaker,9.8,0.8,2.9,6.9,Yes,6.8,Average,10,Yes,0.7,High,84,2
+497,22,Female,Adult,Student,School Student,5.2,4.0,0.6,4.6,No,7.5,Good,3,No,0.7,Medium,92,8
+498,80,Female,Senior,Non-Working,Homemaker,2.0,1.5,1.7,0.5,Yes,4.2,Poor,5,No,0.6,Medium,37,2
+499,27,Female,Adult,Working,Education,7.2,4.5,1.5,5.7,Yes,4.1,Poor,4,Yes,1.0,Medium,61,5
+500,37,Male,Adult,Working,Business,4.4,1.6,4.8,0.5,No,5.4,Average,3,No,0.6,Low,42,7
+501,11,Male,Child,Student,College Student,8.1,3.3,0.5,7.6,Yes,6.7,Average,10,Yes,1.0,High,62,6
+502,28,Female,Adult,Non-Working,Retired,8.2,3.9,3.0,5.2,No,8.9,Good,9,Yes,2.2,Low,21,3
+503,69,Male,Senior,Non-Working,Unemployed,7.9,4.9,2.8,5.1,Yes,5.9,Average,9,Yes,1.1,High,50,6
+504,48,Male,Adult,Working,Business,7.9,1.2,1.9,6.0,No,4.5,Poor,8,Yes,2.3,Medium,94,9
+505,10,Female,Child,Non-Working,Unemployed,6.8,1.0,2.2,4.6,Yes,8.6,Good,2,Yes,1.2,Low,8,7
+506,57,Female,Adult,Working,Corporate,7.7,2.1,2.1,5.6,Yes,7.6,Good,1,Yes,2.4,Medium,71,4
+507,28,Female,Adult,Working,IT Services,5.7,4.1,0.4,5.3,No,4.6,Poor,8,No,0.3,Medium,30,6
+508,53,Male,Adult,Working,Education,5.3,0.8,3.3,2.0,Yes,4.1,Poor,6,No,2.4,High,37,5
+509,43,Female,Adult,Non-Working,Retired,8.6,3.1,4.0,4.6,Yes,8.9,Good,5,Yes,2.3,Low,25,4
+510,28,Female,Adult,Non-Working,Unemployed,2.5,4.4,4.3,0.5,Yes,5.7,Average,5,No,0.3,Low,59,7
+511,46,Male,Adult,Working,Government,6.6,3.7,3.7,2.9,No,8.7,Good,5,Yes,0.6,High,74,4
+512,54,Male,Adult,Non-Working,Retired,8.9,3.4,2.2,6.7,Yes,5.9,Average,3,Yes,0.1,Medium,59,3
+513,63,Female,Senior,Non-Working,Homemaker,3.1,3.9,0.4,2.7,No,4.5,Poor,2,No,2.2,Medium,61,5
+514,75,Male,Senior,Working,Healthcare,5.7,4.4,0.1,5.6,No,7.6,Good,9,No,0.9,Medium,73,10
+515,58,Female,Adult,Non-Working,Retired,6.1,4.8,4.9,1.2,No,6.6,Average,3,Yes,0.6,High,79,7
+516,52,Male,Adult,Non-Working,Unemployed,2.5,1.5,2.3,0.5,No,5.2,Average,10,No,0.9,High,23,10
+517,23,Female,Adult,Working,Business,3.7,2.4,3.9,0.5,Yes,6.8,Average,6,No,1.2,Medium,79,9
+518,62,Female,Senior,Working,Education,2.1,4.0,0.3,1.8,No,9.0,Good,6,No,1.9,Medium,50,10
+519,14,Female,Teen,Student,College Student,9.5,3.8,2.2,7.3,Yes,6.8,Average,4,Yes,1.7,High,57,10
+520,50,Female,Adult,Non-Working,Retired,6.6,3.3,1.5,5.1,No,4.6,Poor,4,Yes,1.0,Medium,88,10
+521,45,Male,Adult,Non-Working,Retired,4.7,2.7,1.0,3.7,No,8.3,Good,6,No,1.6,Medium,35,3
+522,56,Male,Adult,Working,Government,8.4,1.2,4.5,3.9,Yes,8.5,Good,1,Yes,2.0,Low,17,3
+523,55,Female,Adult,Working,IT Services,6.8,1.5,4.3,2.5,No,5.0,Average,1,Yes,1.5,High,27,10
+524,24,Female,Adult,Working,Corporate,9.3,4.2,4.8,4.5,Yes,6.4,Average,9,Yes,0.6,High,62,10
+525,65,Female,Senior,Working,Government,3.5,1.4,3.4,0.5,Yes,6.1,Average,1,No,0.5,High,78,9
+526,41,Female,Adult,Working,Freelancer,7.2,3.7,2.2,5.0,Yes,8.5,Good,3,Yes,0.3,High,84,6
+527,55,Male,Adult,Working,Education,6.6,2.0,4.6,2.0,Yes,6.6,Average,6,Yes,2.0,Medium,32,9
+528,50,Female,Adult,Working,Government,8.2,2.5,0.9,7.3,No,6.1,Average,6,Yes,0.4,High,52,3
+529,49,Female,Adult,Working,IT Services,7.7,1.8,1.7,6.0,No,4.9,Poor,8,Yes,0.9,High,18,3
+530,26,Male,Adult,Working,Freelancer,8.9,2.3,3.5,5.4,No,8.1,Good,6,Yes,2.0,Low,40,2
+531,31,Female,Adult,Non-Working,Retired,5.3,4.2,2.9,2.4,No,7.3,Good,5,No,1.5,High,8,5
+532,33,Female,Adult,Working,Education,2.6,3.7,2.1,0.5,Yes,5.0,Average,1,No,0.7,Medium,37,4
+533,62,Female,Senior,Non-Working,Retired,6.3,2.0,4.2,2.1,Yes,8.6,Good,10,Yes,1.4,Low,37,3
+534,68,Female,Senior,Non-Working,Retired,9.0,0.6,4.3,4.7,No,7.3,Good,2,Yes,1.5,Medium,94,7
+535,79,Male,Senior,Working,Education,6.7,4.5,3.8,2.9,No,6.7,Average,1,Yes,0.3,Medium,76,9
+536,30,Male,Adult,Working,IT Services,3.9,1.8,1.3,2.6,No,7.9,Good,4,No,1.8,Low,25,5
+537,75,Female,Senior,Non-Working,Homemaker,8.9,3.8,2.3,6.6,No,4.9,Poor,8,Yes,2.4,High,59,7
+538,22,Female,Adult,Non-Working,Retired,9.5,2.6,2.0,7.5,Yes,7.6,Good,8,Yes,1.9,Medium,96,10
+539,49,Male,Adult,Working,Education,7.4,3.6,2.2,5.2,Yes,7.1,Good,7,Yes,0.9,High,27,6
+540,33,Female,Adult,Working,Healthcare,5.2,4.3,3.1,2.1,Yes,6.4,Average,9,No,2.4,Medium,88,10
+541,37,Male,Adult,Working,Business,3.2,3.2,3.3,0.5,Yes,5.5,Average,6,No,1.4,Low,33,4
+542,45,Female,Adult,Non-Working,Homemaker,7.4,2.6,0.9,6.5,Yes,7.2,Good,2,Yes,0.9,High,32,3
+543,56,Male,Adult,Working,Education,6.9,2.6,0.8,6.1,No,6.9,Average,7,Yes,1.5,Medium,2,2
+544,22,Female,Adult,Student,School Student,8.3,0.8,0.3,8.0,Yes,5.8,Average,7,Yes,0.8,Low,71,10
+545,43,Female,Adult,Working,Business,3.0,2.5,4.5,0.5,Yes,7.7,Good,5,No,0.8,Medium,33,8
+546,78,Male,Senior,Non-Working,Homemaker,6.6,4.7,5.0,1.6,No,4.9,Poor,9,Yes,0.3,High,82,5
+547,22,Male,Adult,Student,School Student,4.3,1.6,4.7,0.5,Yes,4.1,Poor,2,No,0.4,Low,73,7
+548,17,Female,Teen,Non-Working,Unemployed,7.4,4.9,0.9,6.5,Yes,7.4,Good,4,Yes,1.1,Medium,28,3
+549,44,Male,Adult,Working,Corporate,9.3,2.9,1.1,8.2,Yes,8.0,Good,8,Yes,0.3,High,58,5
+550,17,Female,Teen,Student,School Student,2.5,0.7,3.3,0.5,No,4.5,Poor,1,No,1.2,Low,75,6
+551,51,Male,Adult,Non-Working,Unemployed,2.5,4.5,2.0,0.5,No,5.2,Average,3,No,1.4,High,25,4
+552,13,Male,Teen,Non-Working,Unemployed,2.2,3.4,2.7,0.5,Yes,4.1,Poor,8,No,2.2,High,35,9
+553,73,Female,Senior,Working,Business,2.5,4.5,4.3,0.5,No,7.6,Good,10,No,1.8,Low,73,7
+554,18,Male,Teen,Non-Working,Unemployed,7.3,4.3,2.5,4.8,No,6.8,Average,8,Yes,1.0,Medium,52,2
+555,27,Female,Adult,Non-Working,Unemployed,7.2,4.2,3.7,3.5,No,7.0,Good,4,Yes,1.4,Medium,13,5
+556,28,Male,Adult,Working,Government,4.3,1.4,3.2,1.1,No,8.6,Good,10,No,0.2,High,57,9
+557,57,Male,Adult,Working,Freelancer,3.3,0.8,1.0,2.3,Yes,7.4,Good,4,No,0.3,Medium,20,9
+558,21,Male,Adult,Student,College Student,4.0,0.8,4.0,0.5,No,6.3,Average,6,No,1.4,High,90,5
+559,56,Female,Adult,Non-Working,Unemployed,6.4,1.8,2.4,4.0,No,5.1,Average,10,Yes,0.6,Medium,39,5
+560,80,Female,Senior,Non-Working,Unemployed,4.4,4.1,4.4,0.5,No,6.3,Average,1,No,2.5,Medium,39,7
+561,36,Female,Adult,Non-Working,Unemployed,5.5,1.7,2.5,3.0,No,4.8,Poor,10,No,0.8,Low,64,9
+562,68,Female,Senior,Working,Business,4.0,2.5,3.5,0.5,Yes,5.7,Average,9,No,1.6,High,16,5
+563,64,Male,Senior,Working,Freelancer,8.7,0.6,4.4,4.3,No,6.5,Average,9,Yes,0.5,High,40,6
+564,43,Female,Adult,Non-Working,Unemployed,2.8,3.2,2.6,0.5,No,7.0,Good,2,No,1.7,High,60,5
+565,27,Female,Adult,Working,Corporate,5.0,2.4,1.2,3.8,Yes,7.9,Good,6,No,1.0,Low,54,10
+566,51,Male,Adult,Non-Working,Unemployed,9.8,4.4,4.0,5.8,Yes,4.1,Poor,3,Yes,2.1,Low,8,7
+567,54,Female,Adult,Working,Education,9.2,3.5,3.3,5.9,Yes,4.6,Poor,5,Yes,0.6,Low,61,6
+568,50,Male,Adult,Non-Working,Retired,10.0,1.0,0.2,9.8,Yes,5.3,Average,7,Yes,0.2,Low,14,8
+569,68,Male,Senior,Non-Working,Retired,6.2,1.5,0.2,6.0,No,6.7,Average,7,Yes,0.9,High,7,4
+570,36,Female,Adult,Working,Business,8.8,3.9,2.2,6.6,Yes,9.0,Good,5,Yes,2.2,Medium,33,9
+571,80,Female,Senior,Working,Education,5.4,4.1,1.1,4.3,Yes,4.1,Poor,9,No,1.6,Low,20,6
+572,36,Female,Adult,Working,Freelancer,4.5,0.6,4.0,0.5,No,6.1,Average,1,No,1.4,Low,60,7
+573,70,Female,Senior,Non-Working,Homemaker,9.2,4.1,4.4,4.8,No,6.8,Average,1,Yes,1.9,High,48,4
+574,51,Female,Adult,Non-Working,Homemaker,2.4,3.0,3.1,0.5,No,4.6,Poor,1,No,1.0,Low,37,3
+575,68,Male,Senior,Working,Government,6.3,3.2,1.9,4.4,Yes,5.5,Average,10,Yes,2.0,Low,62,2
+576,58,Male,Adult,Non-Working,Homemaker,2.6,1.6,0.5,2.1,No,6.1,Average,6,No,0.5,Low,2,9
+577,62,Male,Senior,Non-Working,Retired,5.9,4.3,1.4,4.5,Yes,8.4,Good,5,No,2.3,Medium,26,10
+578,63,Male,Senior,Working,Business,3.5,3.8,0.3,3.2,Yes,6.7,Average,4,No,0.3,High,75,5
+579,54,Male,Adult,Working,Healthcare,5.6,2.0,0.6,5.0,Yes,6.2,Average,2,No,1.6,Low,53,7
+580,80,Female,Senior,Non-Working,Homemaker,5.8,3.4,4.9,0.9,Yes,6.6,Average,7,No,2.4,Medium,79,3
+581,39,Female,Adult,Working,Government,2.4,3.8,2.4,0.5,Yes,7.4,Good,2,No,1.8,High,18,5
+582,67,Male,Senior,Non-Working,Retired,8.7,2.0,2.0,6.7,Yes,6.4,Average,3,Yes,1.5,Medium,65,3
+583,14,Male,Teen,Student,College Student,8.8,3.2,4.0,4.8,Yes,5.2,Average,9,Yes,0.9,Low,84,2
+584,12,Male,Child,Student,School Student,8.7,4.4,0.7,8.0,No,4.4,Poor,9,Yes,1.5,Low,75,4
+585,26,Female,Adult,Non-Working,Retired,3.4,4.5,4.4,0.5,Yes,8.5,Good,7,No,2.2,Medium,69,10
+586,16,Female,Teen,Student,School Student,6.9,4.3,4.0,2.9,Yes,6.4,Average,10,Yes,1.0,Medium,81,3
+587,40,Male,Adult,Working,Education,9.8,4.3,2.7,7.1,No,7.8,Good,8,Yes,0.6,Medium,3,5
+588,47,Male,Adult,Non-Working,Homemaker,2.7,1.6,0.8,1.9,No,5.4,Average,6,No,0.9,Low,76,3
+589,23,Female,Adult,Non-Working,Homemaker,2.1,0.9,0.4,1.7,No,5.8,Average,9,No,1.0,High,33,9
+590,22,Male,Adult,Student,School Student,4.5,2.0,1.0,3.5,No,6.5,Average,10,No,1.3,High,63,6
+591,29,Male,Adult,Working,Freelancer,4.3,2.7,4.2,0.5,Yes,7.6,Good,5,No,1.4,Low,96,5
+592,38,Male,Adult,Working,IT Services,6.0,0.8,2.0,4.0,No,8.6,Good,5,No,1.5,Medium,32,7
+593,74,Female,Senior,Non-Working,Homemaker,2.4,4.2,1.3,1.1,No,8.9,Good,5,No,0.4,Medium,33,5
+594,73,Male,Senior,Non-Working,Homemaker,6.1,1.8,3.9,2.2,No,4.8,Poor,3,Yes,1.4,High,55,8
+595,60,Male,Senior,Working,Freelancer,3.4,0.7,4.3,0.5,No,5.7,Average,3,No,1.8,High,36,7
+596,19,Female,Teen,Student,School Student,6.7,4.6,2.7,4.0,No,8.3,Good,3,Yes,0.1,Low,85,2
+597,37,Female,Adult,Working,Education,7.5,3.3,1.8,5.7,No,5.9,Average,8,Yes,2.4,Low,24,4
+598,80,Male,Senior,Non-Working,Unemployed,4.3,4.9,1.1,3.2,No,7.7,Good,7,No,0.7,Medium,97,3
+599,11,Male,Child,Non-Working,Unemployed,3.1,1.0,2.1,1.0,Yes,5.4,Average,2,No,2.1,Low,58,8
+600,53,Female,Adult,Working,IT Services,7.9,4.9,2.3,5.6,Yes,6.3,Average,6,Yes,1.9,Low,4,2
+601,78,Male,Senior,Non-Working,Unemployed,9.8,2.0,2.9,6.9,Yes,5.3,Average,1,Yes,2.1,High,24,3
+602,68,Male,Senior,Non-Working,Retired,3.1,5.0,3.4,0.5,No,8.2,Good,5,No,0.9,High,52,5
+603,36,Female,Adult,Working,Freelancer,5.8,4.9,1.0,4.8,No,5.4,Average,6,No,1.6,High,41,9
+604,48,Male,Adult,Working,Freelancer,7.1,4.9,1.2,5.9,No,4.5,Poor,8,Yes,1.5,Medium,57,7
+605,11,Male,Child,Student,School Student,8.9,4.8,1.6,7.3,No,7.1,Good,10,Yes,2.4,Medium,92,10
+606,49,Male,Adult,Working,Healthcare,2.3,3.9,2.8,0.5,Yes,5.5,Average,6,No,0.4,High,34,2
+607,18,Male,Teen,Student,College Student,8.6,2.9,3.5,5.1,Yes,4.1,Poor,6,Yes,0.8,Medium,62,7
+608,47,Female,Adult,Working,Education,7.0,4.5,1.4,5.6,No,5.0,Average,10,Yes,0.6,High,12,5
+609,50,Male,Adult,Non-Working,Unemployed,5.9,2.2,3.1,2.8,No,8.9,Good,6,No,0.9,Low,94,7
+610,53,Male,Adult,Working,Freelancer,7.3,4.6,5.0,2.3,Yes,6.7,Average,7,Yes,1.8,High,7,8
+611,32,Male,Adult,Working,Business,7.6,1.0,3.7,3.9,No,5.9,Average,9,Yes,0.9,Low,87,3
+612,18,Male,Teen,Student,College Student,3.5,4.1,3.8,0.5,No,5.1,Average,7,No,0.5,High,76,2
+613,58,Female,Adult,Non-Working,Retired,3.7,1.1,2.9,0.8,No,6.5,Average,10,No,0.4,Low,96,3
+614,20,Male,Adult,Non-Working,Homemaker,10.0,2.7,3.3,6.7,No,4.2,Poor,10,Yes,1.4,High,72,8
+615,47,Male,Adult,Non-Working,Retired,3.5,0.8,2.1,1.4,Yes,4.7,Poor,8,No,1.2,High,93,8
+616,28,Female,Adult,Working,Business,2.2,2.2,1.2,1.0,Yes,8.5,Good,6,No,1.6,High,9,5
+617,37,Male,Adult,Working,Corporate,8.2,0.7,3.1,5.1,Yes,7.7,Good,3,Yes,0.2,Low,13,10
+618,50,Female,Adult,Working,Government,3.3,2.7,1.4,1.9,No,5.9,Average,10,No,0.3,High,77,6
+619,69,Female,Senior,Working,Corporate,5.7,1.7,0.3,5.4,No,7.2,Good,4,No,0.6,Medium,100,9
+620,44,Female,Adult,Working,IT Services,5.2,4.4,1.6,3.6,Yes,9.0,Good,8,No,1.9,High,85,10
+621,66,Female,Senior,Working,IT Services,5.1,0.6,2.2,2.9,No,5.3,Average,7,No,2.3,Low,8,4
+622,59,Female,Adult,Non-Working,Retired,6.4,1.5,4.0,2.4,No,4.7,Poor,2,Yes,0.6,Medium,88,5
+623,67,Female,Senior,Non-Working,Retired,8.8,2.6,1.2,7.6,Yes,4.0,Poor,10,Yes,0.6,Medium,56,5
+624,24,Female,Adult,Non-Working,Unemployed,9.8,1.7,3.2,6.6,Yes,8.6,Good,3,Yes,1.7,Low,79,7
+625,34,Male,Adult,Non-Working,Unemployed,4.9,1.0,2.2,2.7,Yes,5.8,Average,10,No,1.5,Medium,15,7
+626,77,Female,Senior,Non-Working,Unemployed,5.9,1.4,1.4,4.5,Yes,6.0,Average,8,No,2.0,Low,96,6
+627,24,Female,Adult,Working,Healthcare,5.3,2.4,1.8,3.5,No,6.3,Average,3,No,2.2,Low,23,9
+628,17,Male,Teen,Student,School Student,2.1,1.8,0.7,1.4,Yes,4.7,Poor,2,No,1.5,High,72,9
+629,12,Male,Child,Student,School Student,6.0,2.4,1.9,4.1,No,7.3,Good,9,No,1.4,Medium,60,2
+630,48,Male,Adult,Working,Education,6.8,3.0,2.3,4.5,No,4.1,Poor,1,Yes,0.2,Medium,80,7
+631,52,Female,Adult,Working,Freelancer,6.0,3.5,4.0,2.0,Yes,6.2,Average,10,No,1.3,Low,98,10
+632,54,Male,Adult,Working,Freelancer,4.5,4.5,0.1,4.4,No,6.8,Average,3,No,0.2,High,35,5
+633,42,Male,Adult,Non-Working,Homemaker,4.4,4.8,4.8,0.5,No,4.7,Poor,8,No,0.2,Medium,65,5
+634,55,Female,Adult,Working,Education,9.7,0.5,0.6,9.1,Yes,5.7,Average,1,Yes,1.8,Medium,37,10
+635,20,Male,Adult,Non-Working,Homemaker,7.5,0.5,1.0,6.5,Yes,5.9,Average,5,Yes,0.3,Medium,76,9
+636,79,Female,Senior,Working,IT Services,6.3,0.6,4.5,1.8,No,8.7,Good,9,Yes,2.0,Medium,61,9
+637,36,Male,Adult,Non-Working,Homemaker,8.2,1.8,1.7,6.5,Yes,4.4,Poor,10,Yes,2.1,Medium,14,8
+638,28,Female,Adult,Working,Education,3.6,2.4,4.2,0.5,Yes,5.4,Average,10,No,0.1,High,61,8
+639,55,Male,Adult,Working,Corporate,2.2,4.7,1.6,0.6,Yes,7.5,Good,3,No,2.4,Low,48,5
+640,36,Male,Adult,Working,Business,2.1,4.5,3.1,0.5,Yes,8.9,Good,3,No,1.1,Medium,64,6
+641,77,Male,Senior,Non-Working,Retired,7.6,0.7,4.4,3.2,Yes,8.7,Good,1,Yes,1.0,High,6,5
+642,68,Male,Senior,Working,Freelancer,2.5,4.8,4.1,0.5,Yes,8.7,Good,3,No,2.3,Medium,27,6
+643,28,Female,Adult,Non-Working,Homemaker,7.5,4.3,0.2,7.3,Yes,4.6,Poor,2,Yes,1.7,Low,99,8
+644,33,Female,Adult,Working,Business,2.6,2.0,0.7,1.9,Yes,4.1,Poor,9,No,2.3,High,77,10
+645,35,Female,Adult,Working,Business,3.1,1.8,0.7,2.4,Yes,7.0,Good,5,No,0.6,Medium,36,6
+646,67,Male,Senior,Working,Government,6.6,4.2,1.8,4.8,Yes,7.7,Good,7,Yes,2.0,Low,74,4
+647,78,Female,Senior,Working,Corporate,2.3,0.6,0.4,1.9,No,4.2,Poor,2,No,2.1,High,42,5
+648,70,Female,Senior,Non-Working,Unemployed,8.0,4.8,3.0,5.0,No,7.1,Good,1,Yes,0.4,Medium,98,9
+649,31,Male,Adult,Working,IT Services,3.6,1.9,0.3,3.3,No,8.9,Good,7,No,1.5,High,35,2
+650,59,Male,Adult,Working,Healthcare,7.3,4.5,0.1,7.2,Yes,6.5,Average,6,Yes,1.9,High,40,6
+651,79,Male,Senior,Working,Business,2.5,4.7,2.2,0.5,Yes,5.6,Average,7,No,1.8,Medium,48,2
+652,30,Female,Adult,Working,Business,9.8,4.9,1.0,8.8,Yes,8.3,Good,5,Yes,0.7,Medium,64,7
+653,17,Female,Teen,Student,School Student,6.6,3.6,1.8,4.8,No,7.9,Good,3,Yes,0.5,Low,58,6
+654,51,Male,Adult,Working,Corporate,3.4,2.7,2.3,1.1,No,4.3,Poor,7,No,2.4,High,87,10
+655,60,Male,Senior,Working,Business,5.7,3.2,1.3,4.4,No,5.5,Average,5,No,0.5,Low,67,5
+656,59,Male,Adult,Non-Working,Retired,2.5,1.5,2.3,0.5,Yes,5.1,Average,7,No,1.7,High,33,2
+657,38,Male,Adult,Non-Working,Retired,4.9,1.0,4.4,0.5,Yes,7.5,Good,5,No,2.3,High,30,3
+658,60,Male,Senior,Working,Education,7.7,2.7,3.5,4.2,No,6.2,Average,1,Yes,1.6,Low,61,10
+659,67,Male,Senior,Non-Working,Homemaker,5.0,2.2,1.6,3.4,Yes,6.6,Average,6,No,0.2,Medium,34,5
+660,40,Female,Adult,Working,IT Services,8.7,3.4,4.4,4.3,No,6.0,Average,8,Yes,0.2,Low,32,4
+661,24,Female,Adult,Working,Education,3.9,3.0,4.5,0.5,No,6.8,Average,8,No,0.2,High,62,4
+662,65,Female,Senior,Non-Working,Retired,3.9,1.1,3.7,0.5,Yes,5.5,Average,10,No,2.1,High,88,2
+663,28,Male,Adult,Working,Education,7.6,3.6,0.4,7.2,Yes,6.9,Average,6,Yes,0.4,Medium,22,9
+664,25,Male,Adult,Working,Healthcare,9.9,4.6,0.4,9.5,No,7.1,Good,8,Yes,1.5,Low,54,8
+665,69,Female,Senior,Non-Working,Retired,4.0,3.3,2.4,1.6,Yes,5.0,Average,1,No,2.3,High,87,8
+666,70,Male,Senior,Non-Working,Unemployed,3.0,2.4,0.7,2.3,Yes,6.6,Average,2,No,1.8,High,73,4
+667,12,Male,Child,Student,College Student,4.9,4.8,4.5,0.5,Yes,7.4,Good,9,No,2.4,High,95,7
+668,47,Female,Adult,Working,Education,6.5,3.2,0.4,6.1,Yes,5.2,Average,1,Yes,0.2,High,54,6
+669,69,Male,Senior,Non-Working,Homemaker,8.8,4.5,2.5,6.3,No,6.9,Average,4,Yes,1.9,High,28,6
+670,45,Male,Adult,Working,Freelancer,8.6,4.0,2.6,6.0,No,5.4,Average,6,Yes,2.4,Low,78,10
+671,24,Female,Adult,Non-Working,Retired,9.9,3.0,4.3,5.6,No,4.3,Poor,4,Yes,1.0,Low,78,9
+672,49,Female,Adult,Working,Government,9.7,1.5,0.6,9.1,Yes,5.9,Average,7,Yes,0.5,Low,19,10
+673,37,Female,Adult,Working,Corporate,2.1,2.8,4.2,0.5,Yes,8.6,Good,7,No,2.4,High,52,8
+674,27,Female,Adult,Non-Working,Retired,5.9,3.3,0.3,5.6,No,7.8,Good,9,No,1.7,Low,61,5
+675,18,Female,Teen,Non-Working,Unemployed,2.1,0.7,0.7,1.4,Yes,7.0,Good,4,No,2.3,Medium,28,7
+676,10,Female,Child,Non-Working,Retired,6.8,0.8,2.8,4.0,Yes,4.9,Poor,10,Yes,1.7,Low,13,8
+677,79,Female,Senior,Non-Working,Unemployed,4.3,3.0,0.9,3.4,No,4.7,Poor,2,No,1.6,Low,52,3
+678,80,Female,Senior,Working,Government,4.4,0.8,1.6,2.8,Yes,6.7,Average,1,No,2.4,Medium,99,2
+679,25,Female,Adult,Working,Government,3.3,2.8,1.8,1.5,No,5.6,Average,8,No,1.9,High,49,4
+680,16,Male,Teen,Student,School Student,9.3,2.5,3.9,5.4,No,8.0,Good,1,Yes,1.1,High,71,3
+681,28,Female,Adult,Working,Government,5.3,2.0,3.6,1.7,Yes,7.6,Good,8,No,1.1,Low,79,2
+682,50,Male,Adult,Working,Healthcare,6.2,4.9,1.9,4.3,No,4.1,Poor,1,Yes,1.7,High,49,2
+683,64,Male,Senior,Working,Corporate,3.7,3.8,0.1,3.6,Yes,8.8,Good,1,No,0.7,Medium,19,6
+684,42,Female,Adult,Working,Business,8.9,3.8,3.0,5.9,Yes,4.8,Poor,4,Yes,1.5,High,2,10
+685,27,Female,Adult,Non-Working,Homemaker,3.8,1.6,0.0,3.8,Yes,8.0,Good,2,No,1.2,Medium,92,10
+686,27,Female,Adult,Non-Working,Retired,5.4,1.4,2.4,3.0,Yes,5.8,Average,9,No,1.9,High,77,10
+687,76,Male,Senior,Non-Working,Unemployed,5.9,3.7,2.0,3.9,Yes,8.2,Good,8,No,0.9,Low,44,3
+688,15,Female,Teen,Non-Working,Unemployed,9.6,2.5,3.6,6.0,Yes,6.2,Average,8,Yes,2.0,High,89,4
+689,71,Female,Senior,Working,Education,8.8,2.3,2.9,5.9,No,5.3,Average,4,Yes,1.2,High,76,4
+690,80,Female,Senior,Non-Working,Retired,6.4,1.9,0.2,6.2,Yes,7.1,Good,2,Yes,1.5,Low,43,4
+691,45,Male,Adult,Working,IT Services,9.0,2.4,1.8,7.2,Yes,6.4,Average,6,Yes,0.8,Low,25,2
+692,76,Male,Senior,Non-Working,Unemployed,4.7,4.5,0.6,4.1,Yes,6.4,Average,6,No,2.5,Medium,26,9
+693,23,Female,Adult,Non-Working,Retired,2.2,2.6,3.7,0.5,Yes,7.4,Good,9,No,2.2,Low,80,8
+694,66,Female,Senior,Working,Corporate,2.7,1.5,4.9,0.5,Yes,6.6,Average,4,No,2.3,Medium,19,6
+695,15,Female,Teen,Non-Working,Unemployed,7.9,0.7,1.8,6.1,Yes,6.2,Average,6,Yes,1.2,Medium,93,9
+696,18,Female,Teen,Student,College Student,8.4,1.3,1.2,7.2,Yes,5.8,Average,3,Yes,0.6,Low,51,7
+697,20,Male,Adult,Student,School Student,6.9,2.0,2.3,4.6,Yes,5.6,Average,1,Yes,0.3,Low,54,6
+698,73,Male,Senior,Working,Corporate,9.7,4.9,3.6,6.1,No,6.7,Average,2,Yes,1.9,High,32,3
+699,54,Female,Adult,Working,Education,2.9,2.8,3.8,0.5,No,4.2,Poor,9,No,0.6,High,75,10
+700,39,Female,Adult,Working,Government,6.9,3.5,0.8,6.1,No,6.4,Average,5,Yes,2.3,Low,29,3
+701,75,Male,Senior,Working,Corporate,7.8,4.7,3.1,4.7,No,7.9,Good,8,Yes,0.4,Low,19,5
+702,61,Male,Senior,Non-Working,Homemaker,6.6,1.0,1.1,5.5,No,8.6,Good,3,Yes,1.4,Medium,17,4
+703,32,Male,Adult,Working,Business,5.5,4.3,1.8,3.7,No,4.9,Poor,3,No,0.8,High,99,3
+704,41,Female,Adult,Working,Freelancer,3.8,3.2,1.0,2.8,No,6.8,Average,2,No,1.5,Medium,8,9
+705,30,Female,Adult,Working,Corporate,3.8,1.9,0.3,3.5,Yes,4.1,Poor,1,No,1.8,Low,62,9
+706,54,Female,Adult,Working,Corporate,7.8,4.4,1.8,6.0,No,5.9,Average,9,Yes,2.3,High,8,7
+707,75,Female,Senior,Non-Working,Homemaker,8.9,2.8,0.6,8.3,No,7.9,Good,9,Yes,0.8,High,33,3
+708,25,Female,Adult,Working,Education,9.7,2.9,4.0,5.7,Yes,7.4,Good,6,Yes,1.4,High,66,3
+709,50,Female,Adult,Working,Education,2.4,4.0,2.7,0.5,No,7.8,Good,5,No,1.5,High,62,6
+710,55,Female,Adult,Working,Government,7.4,3.2,0.2,7.2,Yes,6.9,Average,1,Yes,1.0,Medium,3,10
+711,28,Male,Adult,Working,Corporate,4.8,4.4,3.4,1.4,No,6.0,Average,8,No,1.6,High,43,5
+712,39,Male,Adult,Working,Corporate,3.0,3.4,1.9,1.1,No,4.6,Poor,9,No,2.1,Low,50,4
+713,47,Female,Adult,Working,Corporate,8.2,3.8,2.3,5.9,Yes,4.3,Poor,1,Yes,0.2,Low,75,5
+714,26,Female,Adult,Non-Working,Homemaker,9.7,1.2,0.9,8.8,Yes,7.0,Good,6,Yes,1.8,Low,61,7
+715,58,Male,Adult,Working,Corporate,3.9,3.5,2.6,1.3,Yes,5.5,Average,3,No,1.1,High,57,9
+716,50,Female,Adult,Working,Corporate,6.7,2.5,3.4,3.3,Yes,4.9,Poor,10,Yes,0.4,Low,25,8
+717,31,Male,Adult,Non-Working,Unemployed,8.3,3.9,2.1,6.2,Yes,6.0,Average,9,Yes,2.2,Medium,48,6
+718,15,Male,Teen,Student,College Student,5.7,0.5,4.2,1.5,Yes,4.5,Poor,7,No,2.0,Medium,70,2
+719,41,Male,Adult,Non-Working,Unemployed,2.3,0.8,4.3,0.5,No,6.4,Average,1,No,1.2,Low,18,5
+720,39,Female,Adult,Working,Business,5.4,2.0,1.1,4.3,Yes,7.9,Good,4,No,0.2,High,16,4
+721,32,Female,Adult,Working,Healthcare,2.1,0.9,3.7,0.5,Yes,8.9,Good,4,No,2.3,High,11,8
+722,45,Male,Adult,Working,Business,7.3,0.6,2.0,5.3,Yes,4.4,Poor,10,Yes,1.9,High,43,9
+723,34,Female,Adult,Working,Corporate,2.5,4.0,1.1,1.4,No,8.4,Good,9,No,1.8,Low,23,9
+724,34,Female,Adult,Working,Education,6.9,0.7,1.8,5.1,No,8.5,Good,2,Yes,1.5,High,74,6
+725,54,Female,Adult,Working,Corporate,3.9,4.4,1.0,2.9,No,5.5,Average,10,No,1.0,Low,11,2
+726,74,Male,Senior,Non-Working,Retired,4.1,4.9,2.4,1.7,Yes,8.0,Good,2,No,0.9,High,50,4
+727,72,Female,Senior,Working,Healthcare,5.2,4.2,1.5,3.7,Yes,4.1,Poor,2,No,2.4,High,17,4
+728,24,Female,Adult,Working,Business,5.0,3.6,4.1,0.9,No,6.7,Average,10,No,0.7,Low,61,4
+729,72,Female,Senior,Non-Working,Unemployed,8.2,2.4,0.3,7.9,Yes,4.9,Poor,8,Yes,0.5,Medium,7,6
+730,16,Female,Teen,Non-Working,Unemployed,7.5,4.3,3.7,3.8,No,6.0,Average,2,Yes,0.8,Low,31,8
+731,56,Male,Adult,Working,Education,9.3,4.0,1.1,8.2,Yes,4.5,Poor,3,Yes,1.8,Medium,97,9
+732,49,Female,Adult,Non-Working,Homemaker,2.8,2.1,3.6,0.5,No,6.3,Average,8,No,1.8,Medium,62,5
+733,10,Male,Child,Student,School Student,5.0,2.7,4.5,0.5,Yes,5.1,Average,8,No,0.5,Medium,52,8
+734,21,Male,Adult,Non-Working,Retired,3.4,1.0,0.9,2.5,Yes,5.0,Average,4,No,0.4,Medium,55,10
+735,55,Male,Adult,Working,IT Services,2.3,2.3,3.7,0.5,Yes,5.0,Average,10,No,1.9,High,84,6
+736,31,Female,Adult,Working,Healthcare,5.7,2.1,4.3,1.4,Yes,5.4,Average,9,No,1.9,Low,20,9
+737,75,Male,Senior,Non-Working,Retired,9.8,2.0,0.9,8.9,No,6.2,Average,6,Yes,1.3,Low,44,10
+738,52,Female,Adult,Non-Working,Retired,9.9,2.4,3.4,6.5,No,6.2,Average,2,Yes,2.0,Medium,40,3
+739,72,Male,Senior,Working,Government,3.0,4.3,2.9,0.5,Yes,4.3,Poor,3,No,2.4,Medium,86,10
+740,71,Male,Senior,Non-Working,Retired,3.6,2.8,1.4,2.2,No,4.8,Poor,10,No,2.4,High,28,5
+741,35,Female,Adult,Non-Working,Unemployed,9.9,2.3,4.2,5.7,No,4.4,Poor,5,Yes,1.4,Low,28,6
+742,35,Male,Adult,Working,Government,2.1,3.0,3.3,0.5,Yes,6.8,Average,10,No,1.8,Low,71,3
+743,49,Male,Adult,Non-Working,Retired,5.8,1.0,0.7,5.1,No,6.0,Average,9,No,0.2,Medium,19,7
+744,33,Male,Adult,Non-Working,Retired,5.4,1.2,2.5,2.9,No,7.2,Good,9,No,1.3,High,58,10
+745,77,Male,Senior,Working,IT Services,5.2,2.1,2.9,2.3,No,6.0,Average,4,No,2.2,Medium,98,6
+746,13,Female,Teen,Student,School Student,3.5,0.6,2.8,0.7,No,8.3,Good,3,No,1.8,Low,83,6
+747,48,Male,Adult,Working,IT Services,3.1,2.3,0.1,3.0,No,7.2,Good,5,No,2.4,High,80,7
+748,30,Male,Adult,Non-Working,Retired,8.9,3.8,2.5,6.4,Yes,6.6,Average,10,Yes,1.5,Medium,8,9
+749,12,Female,Child,Non-Working,Homemaker,6.1,3.3,3.6,2.5,No,6.2,Average,4,Yes,2.3,Low,91,6
+750,14,Female,Teen,Student,School Student,8.5,4.2,0.2,8.3,No,7.8,Good,4,Yes,2.2,High,81,5
+751,30,Male,Adult,Working,IT Services,4.7,2.2,3.2,1.5,No,4.7,Poor,8,No,1.4,Low,46,10
+752,77,Female,Senior,Working,Healthcare,5.2,4.6,0.6,4.6,Yes,4.9,Poor,10,No,0.6,High,40,8
+753,11,Female,Child,Non-Working,Homemaker,4.4,4.1,4.5,0.5,Yes,5.8,Average,4,No,2.0,Low,11,6
+754,51,Female,Adult,Working,Corporate,6.5,3.4,1.6,4.9,Yes,6.1,Average,10,Yes,1.2,Low,61,3
+755,47,Male,Adult,Working,Education,2.9,3.2,4.5,0.5,No,5.1,Average,4,No,0.4,Low,85,8
+756,58,Male,Adult,Working,IT Services,8.0,2.3,1.1,6.9,No,4.0,Poor,8,Yes,1.0,Medium,20,2
+757,70,Male,Senior,Non-Working,Unemployed,7.7,2.1,0.2,7.5,No,5.8,Average,7,Yes,2.3,Low,86,10
+758,74,Male,Senior,Working,Business,5.9,4.0,3.4,2.5,No,7.9,Good,6,No,2.0,Low,64,9
+759,19,Female,Teen,Student,School Student,4.3,3.4,2.5,1.8,No,8.5,Good,10,No,2.4,Medium,86,4
+760,72,Female,Senior,Non-Working,Retired,5.5,1.8,1.0,4.5,Yes,5.1,Average,10,No,0.1,High,95,9
+761,53,Female,Adult,Non-Working,Homemaker,4.7,2.2,3.7,1.0,Yes,5.4,Average,4,No,2.3,Low,93,3
+762,46,Female,Adult,Working,Government,9.9,3.9,0.9,9.0,Yes,8.3,Good,10,Yes,2.2,Medium,3,5
+763,24,Female,Adult,Working,Business,4.5,2.2,0.5,4.0,Yes,8.1,Good,7,No,1.0,High,63,6
+764,62,Male,Senior,Non-Working,Unemployed,9.5,3.2,2.6,6.9,No,6.4,Average,7,Yes,0.8,High,10,6
+765,53,Female,Adult,Working,Corporate,5.7,2.8,1.3,4.4,No,6.8,Average,4,No,1.1,Low,54,8
+766,28,Female,Adult,Non-Working,Homemaker,6.6,2.3,1.3,5.3,No,4.7,Poor,3,Yes,0.6,High,71,7
+767,72,Male,Senior,Working,IT Services,9.4,1.5,2.3,7.1,Yes,6.0,Average,9,Yes,1.0,Medium,64,6
+768,58,Female,Adult,Working,Corporate,7.9,1.8,1.0,6.9,Yes,8.8,Good,6,Yes,0.7,High,38,9
+769,73,Male,Senior,Non-Working,Retired,9.5,3.6,1.0,8.5,No,7.6,Good,9,Yes,1.3,Low,73,2
+770,42,Male,Adult,Working,Healthcare,5.5,4.2,1.2,4.3,No,5.2,Average,10,No,0.9,Medium,92,4
+771,46,Female,Adult,Working,Freelancer,7.1,1.2,3.2,3.9,No,4.5,Poor,5,Yes,2.1,Low,9,8
+772,29,Male,Adult,Working,Healthcare,5.5,4.3,4.4,1.1,No,6.3,Average,8,No,1.0,Medium,81,4
+773,26,Male,Adult,Non-Working,Retired,4.9,4.6,3.3,1.6,No,7.7,Good,2,No,0.1,Medium,57,7
+774,48,Male,Adult,Working,Corporate,9.5,4.7,4.7,4.8,Yes,8.5,Good,1,Yes,2.0,Medium,24,9
+775,47,Female,Adult,Non-Working,Homemaker,9.5,2.3,2.7,6.8,No,4.2,Poor,5,Yes,2.1,Medium,58,3
+776,59,Male,Adult,Non-Working,Homemaker,6.5,3.7,0.6,5.9,No,6.1,Average,5,Yes,1.1,Medium,75,9
+777,16,Female,Teen,Student,School Student,5.7,3.7,1.7,4.0,Yes,4.7,Poor,7,No,2.5,Medium,75,10
+778,69,Male,Senior,Non-Working,Retired,4.6,4.2,0.4,4.2,No,7.8,Good,7,No,1.7,Low,9,5
+779,44,Male,Adult,Non-Working,Unemployed,5.8,4.3,0.9,4.9,No,5.5,Average,2,No,2.5,High,5,5
+780,48,Male,Adult,Working,Education,9.8,4.5,3.1,6.7,Yes,6.7,Average,7,Yes,0.9,Medium,68,6
+781,63,Female,Senior,Non-Working,Retired,9.0,3.8,1.3,7.7,Yes,7.1,Good,7,Yes,0.6,Low,13,4
+782,15,Male,Teen,Student,College Student,3.5,2.8,0.1,3.4,Yes,7.7,Good,1,No,0.9,Medium,71,5
+783,28,Male,Adult,Working,Healthcare,9.1,2.9,1.4,7.7,Yes,8.4,Good,8,Yes,0.9,Medium,1,7
+784,71,Male,Senior,Working,Government,6.2,3.1,0.4,5.8,No,7.0,Good,3,Yes,2.0,Medium,77,5
+785,28,Female,Adult,Non-Working,Unemployed,7.8,3.5,4.3,3.5,Yes,7.6,Good,10,Yes,2.5,High,67,5
+786,11,Male,Child,Non-Working,Homemaker,8.8,2.6,3.4,5.4,No,7.0,Good,9,Yes,2.1,Medium,64,4
+787,31,Female,Adult,Working,Business,8.9,2.4,0.1,8.8,No,5.9,Average,7,Yes,0.7,Medium,27,10
+788,80,Female,Senior,Working,IT Services,4.4,3.3,4.4,0.5,Yes,4.5,Poor,4,No,0.6,Medium,51,6
+789,41,Male,Adult,Working,IT Services,2.8,2.5,0.3,2.5,Yes,8.6,Good,8,No,1.0,High,85,8
+790,51,Female,Adult,Non-Working,Homemaker,2.6,4.4,0.6,2.0,No,4.6,Poor,5,No,0.5,High,5,6
+791,63,Male,Senior,Non-Working,Unemployed,4.2,2.1,1.7,2.5,Yes,7.7,Good,2,No,0.3,Medium,1,5
+792,41,Female,Adult,Working,Freelancer,9.7,3.1,3.9,5.8,Yes,5.5,Average,7,Yes,1.4,Low,75,5
+793,13,Female,Teen,Student,College Student,8.8,1.3,0.3,8.5,No,4.4,Poor,10,Yes,2.3,High,50,2
+794,43,Female,Adult,Working,Business,5.5,4.0,1.8,3.7,Yes,5.4,Average,10,No,0.4,Medium,99,7
+795,63,Male,Senior,Non-Working,Unemployed,3.3,4.0,0.2,3.1,Yes,8.2,Good,2,No,1.5,Medium,14,7
+796,74,Male,Senior,Working,Freelancer,4.0,4.9,4.1,0.5,No,6.5,Average,7,No,1.1,Medium,0,10
+797,59,Male,Adult,Working,Government,9.0,3.4,3.8,5.2,No,8.7,Good,7,Yes,0.2,High,79,10
+798,54,Male,Adult,Working,Freelancer,8.5,2.8,3.7,4.8,Yes,5.2,Average,6,Yes,1.6,High,35,2
+799,50,Female,Adult,Working,Government,9.5,1.1,2.5,7.0,Yes,7.9,Good,9,Yes,0.6,High,36,5
+800,63,Female,Senior,Non-Working,Retired,3.7,4.7,0.6,3.1,No,6.5,Average,4,No,1.9,Medium,67,9
+801,74,Male,Senior,Working,Business,4.3,2.3,2.6,1.7,No,4.2,Poor,4,No,1.1,Medium,66,9
+802,34,Male,Adult,Working,IT Services,3.9,1.2,4.2,0.5,Yes,7.3,Good,5,No,1.5,Low,25,5
+803,61,Female,Senior,Non-Working,Unemployed,3.2,2.5,4.5,0.5,No,7.1,Good,10,No,1.2,High,95,7
+804,12,Female,Child,Non-Working,Homemaker,7.2,1.1,3.6,3.6,No,4.3,Poor,1,Yes,0.7,Medium,29,5
+805,79,Female,Senior,Non-Working,Unemployed,8.1,3.8,0.4,7.7,Yes,7.6,Good,7,Yes,1.1,Medium,86,9
+806,42,Female,Adult,Non-Working,Retired,6.4,3.8,3.6,2.8,No,8.3,Good,5,Yes,0.5,Medium,69,6
+807,61,Female,Senior,Non-Working,Unemployed,7.9,0.7,1.6,6.3,No,6.1,Average,5,Yes,2.2,Low,14,8
+808,37,Male,Adult,Non-Working,Unemployed,6.6,4.0,3.1,3.5,Yes,6.7,Average,6,Yes,1.1,High,18,10
+809,65,Male,Senior,Working,Government,2.4,1.6,0.6,1.8,Yes,7.8,Good,4,No,1.8,High,46,9
+810,52,Female,Adult,Non-Working,Homemaker,4.5,1.9,2.2,2.3,No,8.1,Good,5,No,2.2,High,49,3
+811,72,Male,Senior,Working,Healthcare,7.9,1.8,0.9,7.0,Yes,4.9,Poor,4,Yes,2.4,Medium,51,9
+812,61,Female,Senior,Working,Business,3.3,4.7,1.3,2.0,Yes,5.1,Average,4,No,1.3,Low,58,8
+813,16,Female,Teen,Student,College Student,6.7,1.1,1.0,5.7,Yes,7.7,Good,9,Yes,0.5,Low,82,10
+814,53,Female,Adult,Non-Working,Unemployed,9.0,4.4,1.2,7.8,No,5.1,Average,4,Yes,0.4,Low,92,8
+815,55,Male,Adult,Non-Working,Retired,8.6,1.9,2.6,6.0,Yes,4.8,Poor,2,Yes,0.6,Medium,34,2
+816,19,Male,Teen,Student,School Student,9.8,3.5,4.1,5.7,Yes,6.9,Average,8,Yes,0.2,Medium,60,6
+817,32,Female,Adult,Non-Working,Retired,6.3,0.7,4.6,1.7,No,8.2,Good,5,Yes,0.9,High,46,8
+818,72,Female,Senior,Working,Freelancer,8.8,0.8,5.0,3.8,No,5.1,Average,5,Yes,0.1,Medium,54,2
+819,72,Male,Senior,Non-Working,Unemployed,7.3,1.5,4.7,2.6,No,4.8,Poor,3,Yes,0.5,Medium,5,2
+820,33,Female,Adult,Working,Government,7.2,2.4,2.7,4.5,No,8.6,Good,2,Yes,0.8,High,77,3
+821,40,Male,Adult,Working,Education,2.5,3.0,3.7,0.5,Yes,6.7,Average,5,No,1.2,High,52,3
+822,16,Male,Teen,Student,School Student,6.2,1.9,0.1,6.1,Yes,4.3,Poor,9,Yes,2.4,High,60,6
+823,76,Female,Senior,Working,IT Services,3.6,4.2,4.5,0.5,Yes,7.3,Good,8,No,1.4,High,62,3
+824,70,Female,Senior,Working,Healthcare,3.3,0.9,4.3,0.5,No,8.1,Good,2,No,2.4,Medium,19,9
+825,16,Female,Teen,Student,School Student,2.5,1.3,2.7,0.5,No,7.3,Good,2,No,1.4,High,80,10
+826,59,Male,Adult,Non-Working,Unemployed,3.6,3.0,3.9,0.5,Yes,8.9,Good,4,No,1.7,High,78,10
+827,30,Female,Adult,Working,IT Services,8.1,3.0,0.5,7.6,No,6.4,Average,5,Yes,1.6,Medium,8,6
+828,64,Female,Senior,Working,IT Services,8.8,4.8,0.4,8.4,Yes,8.5,Good,3,Yes,0.6,High,13,9
+829,13,Female,Teen,Student,School Student,3.8,1.9,2.7,1.1,Yes,5.3,Average,1,No,1.1,Medium,82,7
+830,80,Female,Senior,Working,Freelancer,8.6,3.7,2.5,6.1,Yes,7.9,Good,2,Yes,1.9,Medium,13,10
+831,44,Female,Adult,Working,Business,8.8,3.8,1.2,7.6,Yes,6.2,Average,3,Yes,0.7,Medium,72,8
+832,45,Male,Adult,Working,Education,8.5,2.7,1.9,6.6,Yes,6.0,Average,2,Yes,1.0,Low,24,8
+833,18,Female,Teen,Student,College Student,6.8,3.8,1.9,4.9,Yes,7.7,Good,1,Yes,0.9,Low,85,8
+834,27,Male,Adult,Working,Education,8.2,2.8,0.8,7.4,No,6.8,Average,6,Yes,0.4,Low,81,2
+835,64,Female,Senior,Non-Working,Homemaker,7.6,3.2,2.1,5.5,Yes,5.1,Average,3,Yes,0.7,High,6,10
+836,26,Male,Adult,Working,Business,5.0,4.8,2.0,3.0,Yes,8.2,Good,9,No,0.8,High,25,6
+837,17,Female,Teen,Student,College Student,7.2,1.4,0.6,6.6,Yes,6.0,Average,8,Yes,1.2,High,80,7
+838,78,Male,Senior,Working,Healthcare,9.6,0.9,3.7,5.9,Yes,7.9,Good,1,Yes,1.7,High,32,9
+839,50,Male,Adult,Non-Working,Retired,5.8,4.5,4.9,0.9,No,5.9,Average,10,No,0.5,High,25,10
+840,55,Male,Adult,Working,Healthcare,7.8,1.7,2.5,5.3,No,4.8,Poor,1,Yes,0.5,Medium,51,6
+841,75,Male,Senior,Non-Working,Unemployed,9.0,3.6,3.0,6.0,No,4.4,Poor,7,Yes,1.5,Low,50,9
+842,68,Male,Senior,Working,Freelancer,5.5,0.8,1.6,3.9,No,5.5,Average,8,No,1.2,High,81,8
+843,25,Male,Adult,Working,Business,9.0,2.7,3.2,5.8,Yes,8.7,Good,1,Yes,1.4,Low,1,6
+844,59,Female,Adult,Non-Working,Homemaker,3.6,2.3,1.1,2.5,Yes,4.4,Poor,1,No,0.3,Medium,21,5
+845,53,Female,Adult,Working,Healthcare,5.6,4.3,3.1,2.5,No,9.0,Good,2,No,1.0,High,18,4
+846,47,Female,Adult,Working,Healthcare,6.9,3.6,1.3,5.6,No,6.4,Average,7,Yes,1.2,Low,3,10
+847,76,Female,Senior,Working,Corporate,2.2,1.1,3.5,0.5,Yes,6.9,Average,3,No,1.3,Medium,100,6
+848,75,Female,Senior,Working,Corporate,4.0,1.6,3.5,0.5,Yes,4.8,Poor,4,No,0.3,High,0,4
+849,32,Male,Adult,Non-Working,Unemployed,7.1,3.8,3.6,3.5,Yes,4.6,Poor,5,Yes,1.8,Medium,56,8
+850,49,Male,Adult,Non-Working,Homemaker,9.3,4.3,3.3,6.0,Yes,7.4,Good,6,Yes,0.9,Medium,21,9
+851,29,Male,Adult,Working,Business,3.5,1.2,2.2,1.3,No,4.3,Poor,5,No,2.1,Low,19,9
+852,73,Male,Senior,Working,Business,9.3,2.0,4.6,4.7,No,4.6,Poor,2,Yes,0.4,Low,96,7
+853,28,Female,Adult,Working,Freelancer,8.5,3.7,1.5,7.0,Yes,6.7,Average,1,Yes,1.6,Low,55,9
+854,25,Male,Adult,Working,Freelancer,6.6,4.0,2.0,4.6,Yes,4.6,Poor,2,Yes,0.6,Low,22,5
+855,15,Male,Teen,Student,School Student,3.5,1.1,2.9,0.6,Yes,4.1,Poor,4,No,1.5,Low,95,3
+856,51,Male,Adult,Non-Working,Retired,9.4,5.0,0.1,9.3,No,7.5,Good,7,Yes,0.4,Medium,95,6
+857,30,Male,Adult,Working,Business,6.3,2.6,4.0,2.3,No,8.1,Good,5,Yes,1.5,High,24,6
+858,45,Female,Adult,Non-Working,Homemaker,7.0,3.2,1.5,5.5,Yes,8.4,Good,6,Yes,1.9,Medium,97,8
+859,17,Female,Teen,Non-Working,Homemaker,3.1,4.6,4.7,0.5,Yes,7.3,Good,6,No,1.1,Low,39,9
+860,50,Female,Adult,Working,Business,8.3,1.0,1.0,7.3,Yes,6.5,Average,4,Yes,1.1,High,9,10
+861,50,Female,Adult,Working,Business,5.6,4.9,1.0,4.6,Yes,7.6,Good,4,No,2.4,Low,54,2
+862,45,Female,Adult,Non-Working,Homemaker,2.5,3.7,0.4,2.1,Yes,8.4,Good,3,No,0.8,Medium,8,4
+863,75,Male,Senior,Working,IT Services,4.4,1.5,0.2,4.2,Yes,8.7,Good,9,No,0.6,High,99,4
+864,42,Female,Adult,Working,Healthcare,5.9,2.7,1.5,4.4,No,4.0,Poor,3,No,0.6,Low,49,5
+865,36,Female,Adult,Working,Corporate,6.7,1.8,4.6,2.1,Yes,4.7,Poor,6,Yes,2.0,Low,77,3
+866,71,Male,Senior,Working,Freelancer,4.6,2.9,0.4,4.2,Yes,6.0,Average,10,No,1.5,High,98,5
+867,80,Male,Senior,Working,IT Services,4.9,2.9,2.0,2.9,No,4.3,Poor,6,No,1.3,High,25,7
+868,22,Male,Adult,Non-Working,Retired,2.6,2.1,2.5,0.5,Yes,4.6,Poor,10,No,0.8,Medium,66,9
+869,18,Female,Teen,Student,College Student,4.9,1.1,3.5,1.4,Yes,8.9,Good,1,No,1.9,Low,67,10
+870,17,Female,Teen,Non-Working,Retired,7.5,3.7,3.3,4.2,Yes,6.2,Average,2,Yes,2.3,Low,67,6
+871,43,Female,Adult,Working,IT Services,3.4,2.0,1.2,2.2,Yes,8.4,Good,9,No,0.9,High,54,9
+872,49,Male,Adult,Working,Business,6.3,2.5,2.6,3.7,Yes,5.4,Average,2,Yes,1.8,High,92,9
+873,70,Female,Senior,Working,Business,9.1,1.2,4.6,4.5,No,4.6,Poor,6,Yes,2.2,High,6,3
+874,69,Female,Senior,Working,Education,2.9,2.2,2.2,0.7,No,5.7,Average,4,No,1.8,High,48,7
+875,59,Male,Adult,Working,Government,8.7,1.7,0.5,8.2,Yes,8.9,Good,10,Yes,2.3,High,7,3
+876,37,Male,Adult,Non-Working,Homemaker,7.0,4.3,1.9,5.1,Yes,7.1,Good,10,Yes,1.5,High,48,4
+877,38,Male,Adult,Non-Working,Unemployed,8.4,3.8,3.8,4.6,Yes,8.3,Good,3,Yes,0.5,Low,77,9
+878,72,Female,Senior,Non-Working,Unemployed,6.2,1.2,2.5,3.7,No,5.9,Average,10,Yes,1.6,High,22,10
+879,10,Female,Child,Student,School Student,5.6,1.7,1.1,4.5,No,8.6,Good,3,No,2.2,High,71,8
+880,20,Female,Adult,Non-Working,Retired,8.2,2.7,0.6,7.6,Yes,5.8,Average,3,Yes,1.0,Medium,94,7
+881,79,Female,Senior,Working,Business,3.0,4.3,3.2,0.5,Yes,8.4,Good,9,No,1.4,Low,76,9
+882,20,Male,Adult,Student,College Student,8.6,0.8,1.3,7.3,Yes,5.2,Average,3,Yes,1.4,High,63,9
+883,26,Male,Adult,Non-Working,Retired,4.8,0.8,0.1,4.7,Yes,6.0,Average,7,No,1.5,Medium,39,9
+884,19,Female,Teen,Non-Working,Retired,8.3,4.2,1.4,6.9,No,6.1,Average,2,Yes,0.7,Medium,97,9
+885,35,Male,Adult,Non-Working,Unemployed,4.9,4.4,0.0,4.9,No,6.8,Average,1,No,0.4,High,35,8
+886,53,Female,Adult,Working,Corporate,3.2,4.6,3.7,0.5,Yes,7.2,Good,3,No,1.6,High,6,3
+887,23,Female,Adult,Working,Government,9.1,4.0,0.9,8.2,No,5.8,Average,5,Yes,2.1,Low,83,4
+888,30,Male,Adult,Non-Working,Homemaker,5.4,2.5,4.4,1.0,Yes,8.1,Good,4,No,1.8,Low,67,7
+889,66,Male,Senior,Working,Business,4.9,1.9,1.0,3.9,No,7.0,Good,9,No,2.1,Medium,72,3
+890,29,Female,Adult,Non-Working,Unemployed,9.5,4.1,1.6,7.9,Yes,7.4,Good,4,Yes,1.8,Low,57,7
+891,60,Male,Senior,Working,Government,3.1,1.3,4.8,0.5,Yes,6.8,Average,2,No,2.4,High,77,6
+892,49,Male,Adult,Working,Healthcare,3.1,2.6,0.0,3.1,No,8.7,Good,7,No,1.5,Medium,33,2
+893,25,Male,Adult,Non-Working,Unemployed,2.0,3.3,0.4,1.6,No,6.4,Average,6,No,1.7,High,43,3
+894,17,Female,Teen,Student,School Student,9.8,4.3,1.9,7.9,No,6.8,Average,1,Yes,1.4,Medium,75,9
+895,23,Male,Adult,Working,Corporate,4.6,1.2,2.3,2.3,No,4.5,Poor,9,No,0.7,High,25,5
+896,32,Female,Adult,Working,Freelancer,2.9,0.8,1.2,1.7,No,8.8,Good,5,No,1.0,Medium,97,9
+897,35,Female,Adult,Non-Working,Homemaker,8.8,1.3,0.4,8.4,Yes,4.6,Poor,9,Yes,1.1,Medium,56,9
+898,28,Female,Adult,Working,IT Services,2.5,3.6,1.8,0.7,Yes,6.5,Average,10,No,0.5,Medium,90,10
+899,71,Male,Senior,Non-Working,Unemployed,9.3,4.7,3.4,5.9,Yes,5.2,Average,4,Yes,0.8,Low,4,5
+900,35,Female,Adult,Working,Business,8.2,3.2,1.8,6.4,No,5.9,Average,2,Yes,0.5,High,42,3
