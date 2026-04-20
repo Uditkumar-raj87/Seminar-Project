@@ -48,8 +48,8 @@ const professionProductivityDelta = {
 };
 
 const getSleepQuality = (sleepHours, stressLevel) => {
-  if (sleepHours >= 7.3 && stressLevel <= 5.2) return 'Good';
-  if (sleepHours >= 6.1 && stressLevel <= 7.3) return 'Average';
+  if (sleepHours >= 6.8 && stressLevel <= 6.6) return 'Good';
+  if (sleepHours >= 5.8 && stressLevel <= 8.2) return 'Average';
   return 'Poor';
 };
 
