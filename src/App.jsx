@@ -160,8 +160,13 @@ const App = () => {
   );
 
   const scatterSeries = useMemo(() => {
+    const allowedGenders = ['Male', 'Female'];
     const gendersInData =
-      filters.gender === 'All' ? filterOptions.gender : [filters.gender];
+      filters.gender === 'All'
+        ? allowedGenders
+        : allowedGenders.includes(filters.gender)
+          ? [filters.gender]
+          : [];
 
     return gendersInData.map((gender) => ({
       gender,
