@@ -1,0 +1,35 @@
+{
+  "name": "seminar-project",
+  "version": "0.0.0",
+  "description": "Digital Life Impact Dashboard",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uditkumar-raj87/Seminar-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Uditkumar-raj87/Seminar-Project/issues"
+  },
+  "homepage": "https://github.com/Uditkumar-raj87/Seminar-Project#readme",
+  "private": true,
+  "dependencies": {
+    "lucide-react": "^1.8.0",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "recharts": "^3.8.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "@vitejs/plugin-react": "^6.0.1",
+    "tailwindcss": "^4.2.2",
+    "vite": "^8.0.8"
+  }
+}
